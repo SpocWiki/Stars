@@ -1,4 +1,4 @@
-﻿---
+---
 absolute_magnitude: -2.77
 age_estimated_by_a_dating_method: 37.3
 apparent_magnitude: 0.46
