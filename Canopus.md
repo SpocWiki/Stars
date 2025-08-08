@@ -32,7 +32,6 @@ confidential: public
 
 #is_/same_as :: [[../../WikiData/WD~Canopus,12189|WD~Canopus,12189]] 
 
-
 ## #has_/text_of_/abstract 
 
 > **Canopus** is the brightest star in the southern constellation of Carina 
