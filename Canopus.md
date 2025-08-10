@@ -7,6 +7,70 @@ tags:
   - astro/Star
 type: Star
 has_id_wikidata: Q12189
+present_in_work:
+  - "[[_Standards/WikiData/WD~Dune,190192]]"
+  - "[[_Standards/WikiData/WD~Birth_of_the_Federation,1474668]]"
+  - "[[_Standards/WikiData/WD~Canopus_in_Argos,3312043]]"
+  - "[[_Standards/WikiData/WD~Star_Trek_The_Original_Series_Core_Game_Book,115519946]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Atutahi,4818816]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~near_IR_source,67206785]]"
+  - "[[_Standards/WikiData/WD~star,523]]"
+declination: -52.695661384
+right_ascension: 95.987957829
+constellation: "[[_Standards/WikiData/WD~Carina,10470]]"
+absolute_magnitude: -5.71
+apparent_magnitude: -0.74
+metallicity: -0.06
+stellar_rotational_velocity: 9
+distance_from_Earth: 310
+surface_gravity: 32
+luminosity: 13300
+radial_velocity: 20.3
+parallax: 10.55
+right_ascension_component_of_proper_motion: 19.93
+declination_component_of_proper_motion: 23.24
+effective_temperature: 7557
+spectral_class: A9II
+Commons_category: Canopus
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Canopus.jpg
+catalog_code:
+  - 1ES 0622-52.6
+  - 1RXS J062357.2-524139
+  - 2EUVE J0624-52.6
+  - 2MASS J06235709-5241441
+  - CEL 1228
+  - CPC 19 2125
+  - EUVE J0624-52.6
+  - EXSS 0622.7-5240
+  - FK5 245
+  - GC 8302
+  - GCRV 4091
+  - HD 45348
+  - HIC 30438
+  - HIP 30438
+  - HR 2326
+  - IRAS 06228-5240
+  - JP11 1384
+  - N30 1391
+  - PLX 1497
+  - PLX 1497.00
+  - PPM 335149
+  - ROT 1039
+  - SAO 234480
+  - SRS 30245
+  - TD1 7115
+  - TIC 255559489
+  - TYC 8534-2277-1
+  - UBV 6431
+  - UBV M 12094
+  - uvby98 100045348
+  - WEB 6060
+  - α Car
 ---
 
 # [[Canopus]] 
