@@ -94,7 +94,7 @@ confidential: public
 [ZodiacId::28099]
 [NextStarId::27271]
 
-#is_/same_as :: [[../../WikiData/WD~Canopus,12189|WD~Canopus,12189]] 
+#is_/same_as :: [[../../../WikiData/WD~Canopus,12189|WD~Canopus,12189]] 
 
 ## #has_/text_of_/abstract 
 

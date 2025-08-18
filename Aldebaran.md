@@ -30,7 +30,7 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::27488]
 
-#is_/same_as :: [[../../../_Standards/WikiData/WD~Aldebaran,88540091]] 
+#is_/same_as :: [[../../../WikiData/WD~Aldebaran,88540091]] 
 
 ## Confidential Links & Embeds: 
 - [[../../../_Standards/astro/Star/Aldebaran|Aldebaran]] 

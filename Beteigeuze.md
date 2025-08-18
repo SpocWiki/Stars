@@ -107,7 +107,7 @@ confidential: public
 [ZodiacId::28142]
 [NextStarId::27254]
 
-#is_/same_as :: [[../../WikiData/WD~Betelgeuse,12124|WD~Betelgeuse,12124]] 
+#is_/same_as :: [[../../../WikiData/WD~Betelgeuse,12124|WD~Betelgeuse,12124]] 
 
 ## Confidential Links & Embeds: 
 - [[../../../_Standards/astro/Star/Beteigeuze|Beteigeuze]] 

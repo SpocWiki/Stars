@@ -90,7 +90,7 @@ type_of_variable_star: '[[_Standards/WikiData/WD~Lambda_Eridani_variable,4350564
 [ZodiacId::28118]
 [NextStarId::27615]
 
-#is_/same_as :: [[../../../_Standards/WikiData/WD~Achernar,12183]] 
+#is_/same_as :: [[../../../WikiData/WD~Achernar,12183]] 
 
 ## #has_/text_of_/abstract 
 

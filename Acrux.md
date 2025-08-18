@@ -30,7 +30,7 @@ type: Star
 [ZodiacId::28112]
 [NextStarId::27256]
 
-#is_/same_as :: [[../../../_Standards/WikiData/WD~Acrux,13102]] 
+#is_/same_as :: [[../../../WikiData/WD~Acrux,13102]] 
 
 ## #has_/text_of_/abstract 
 

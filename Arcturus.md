@@ -122,7 +122,7 @@ confidential: public
 [ZodiacId::28091]
 [NextStarId::27314]
 
-#is_/same_as :: [[../../WikiData/WD~Arcturus,12985|WD~Arcturus,12985]] 
+#is_/same_as :: [[../../../WikiData/WD~Arcturus,12985|WD~Arcturus,12985]] 
 
 ## Confidential Links & Embeds: 
 - [[../../../_Standards/astro/Star/Arcturus|Arcturus]] 

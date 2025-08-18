@@ -111,7 +111,7 @@ confidential: public
 [ZodiacId::28090]
 [NextStarId::27376]
 
-#is_/same_as :: [[../../WikiData/WD~Capella,12970|WD~Capella,12970]] 
+#is_/same_as :: [[../../../WikiData/WD~Capella,12970|WD~Capella,12970]] 
 
 ## #has_/text_of_/abstract 
 

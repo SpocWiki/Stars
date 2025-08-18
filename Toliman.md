@@ -90,7 +90,7 @@ demonym: Alpha Centaurian
 [ZodiacId::28101] 
 [NextStarId::27240] 
 
-#is_/same_as :: [[../../WikiData/WD~Alpha_Centauri,12176|WD~Alpha_Centauri,12176]] 
+#is_/same_as :: [[../../../WikiData/WD~Alpha_Centauri,12176|WD~Alpha_Centauri,12176]] 
 #has_/next_item :: [[Agena]] 
 
 

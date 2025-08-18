@@ -96,7 +96,7 @@ declination: -60.373035162
 [ZodiacId::28101] 
 [NextStarId::27308] 
 
-#is_/same_as :: [[../../WikiData/WD~Beta_Centauri,13175|WD~Beta_Centauri,13175]] 
+#is_/same_as :: [[../../../WikiData/WD~Beta_Centauri,13175|WD~Beta_Centauri,13175]] 
 #has_/prev_item :: [[Toliman]] 
 #has_/previous_item 
 

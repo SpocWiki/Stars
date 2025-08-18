@@ -30,7 +30,7 @@ confidential: public
 [ZodiacId::28155]
 [NextStarId::27382]
 
-#is_/same_as :: [[../../WikiData/WD~Antares,12166|WD~Antares,12166]] 
+#is_/same_as :: [[../../../WikiData/WD~Antares,12166|WD~Antares,12166]] 
 
 
 ## #has_/text_of_/abstract 
