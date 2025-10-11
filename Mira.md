@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -2.98
 - -34.825
@@ -7,6 +7,8 @@ tags:
 - astro/Star
 type: Star
 ---
+
+# [[Mira]] 
 
 SpocWebEntityId: 27278
 isDeleted: false
@@ -27,7 +29,23 @@ confidential: public
 [ZodiacId::28103]
 [NextStarId::27592]
 
+#is_/same_as :: [[../../../WikiData/WD~Mira,12965|WD~Mira,12965]] 
 
+## #has_/text_of_/abstract 
+
+> **Mira**, designation Omicron Ceti (ο Ceti, abbreviated Omicron Cet, ο Cet), 
+> is a binary star in the constellation Cetus. 
+> 
+> The system consists of a variable red giant (Mira A) 
+> along with a white dwarf companion (Mira B). 
+> 
+> Mira A is a pulsating variable star and was the first non-supernova variable star discovered, 
+> with the possible exception of Algol. 
+> 
+> It is the prototype of the Mira variables. 
+> The system lies at a distance of 300 light-years (92 parsecs).
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Mira)
 
 ## Confidential Links & Embeds: 
 - [[../../../_Standards/astro/Star/Mira|Mira]] 
