@@ -260,12 +260,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  geo-lon-v:
+  has_/place_/longitude_/velocity:
     input: text
-    accessorKey: geo-lon-v
-    label: geo-lon-v
-    key: geo-lon-v
-    id: geo-lon-v
+    accessorKey: has_/place_/longitude_/velocity
+    label: has_/place_/longitude_/velocity
+    key: has_/place_/longitude_/velocity
+    id: has_/place_/longitude_/velocity
     position: 20
     skipPersist: false
     isHidden: false
@@ -279,12 +279,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  geo-lat-v:
+  has_/place_/latitude_/velocity:
     input: text
-    accessorKey: geo-lat-v
-    label: geo-lat-v
-    key: geo-lat-v
-    id: geo-lat-v
+    accessorKey: has_/place_/latitude_/velocity
+    label: has_/place_/latitude_/velocity
+    key: has_/place_/latitude_/velocity
+    id: has_/place_/latitude_/velocity
     position: 21
     skipPersist: false
     isHidden: false

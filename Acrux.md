@@ -12,20 +12,22 @@ tags:
 - astro/Star
 type: Star
 ---
-
+ 
 # [[Acrux]] 
+
+#has_/value_for_/depth_in_meters 
 
 [star-class::B1]
 [star-class-id::28188]
-[Mass-sol::]
-[name::Acrux]
-[geo-alt::400]
-[geo-lon::-173.35]
-[geo-lat::-63.1]
-[geo-lon-v::-0.004]
-[geo-lat-v::-0.02]
-[bright-min::8]
-[bright-max::8]
+[has_/value_for_/mass_/sol::]
+[has_/name::Acrux]
+[has_/place_/altitude_/ly::400]
+[has_/place_/longitude::-173.35]
+[has_/place_/latitude::-63.1]
+[has_/place_/longitude_/velocity::-0.004]
+[has_/place_/latitude_/velocity::-0.02]
+[has_/value_for_/brightness_/min::8]
+[has_/value_for_/brightness_/max::8]
 [Zodiac-index::1]
 [ZodiacId::28112]
 [NextStarId::27256]

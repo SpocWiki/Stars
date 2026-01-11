@@ -83,22 +83,22 @@ declination: -60.373035162
 
 [star-class::B1] 
 [star-class-id::28188] 
-[Mass-sol::] 
-[name::Agena] 
-[geo-alt::300] 
-[geo-lon::-149.05] 
-[geo-lat::-60.37] 
-[geo-lon-v::-0.003] 
-[geo-lat-v::-0.02] 
-[bright-min::6] 
-[bright-max::6] 
+[has_/value_for_/mass_/sol::] 
+[has_/name::Agena] 
+[has_/place_/altitude_/ly::300] 
+[has_/place_/longitude::-149.05] 
+[has_/place_/latitude::-60.37] 
+[has_/place_/longitude_/velocity::-0.003] 
+[has_/place_/latitude_/velocity::-0.02] 
+[has_/value_for_/brightness_/min::6] 
+[has_/value_for_/brightness_/max::6] 
 [Zodiac-index::2] 
 [ZodiacId::28101] 
 [NextStarId::27308] 
 
 #is_/same_as :: [[../../../WikiData/WD~Beta_Centauri,13175|WD~Beta_Centauri,13175]] 
-#has_/prev_item :: [[Toliman]] 
-#has_/previous_item 
+#has_/previous_/star :: [[Toliman]] 
+
 
 ## #has_/text_of_/abstract 
 
