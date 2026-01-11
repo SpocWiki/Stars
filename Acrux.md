@@ -21,7 +21,7 @@ type: Star
 [star-class-id::28188]
 [has_/value_for_/mass_/sol::]
 [has_/name::Acrux]
-[has_/place_/altitude_/ly::400]
+[has_/place_/altitude_/ly::400] 
 [has_/place_/longitude::-173.35]
 [has_/place_/latitude::-63.1]
 [has_/place_/longitude_/velocity::-0.004]
