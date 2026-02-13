@@ -1,11 +1,43 @@
 ---
 location:
-- -16.72
-- -101.275
-- 8.7
+  - -16.72
+  - -101.275
+  - 8.7
 tags:
-- astro/Star
+  - astro/Star
 type: Star
+dv_star-class: A1
+dv_star-class-id: 28189
+dv_has_:
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: -15
+      max: -15
+  name: Sirius
+  place_:
+    altitude_:
+      ly: 8.7
+    longitude: 101.275
+    latitude: -16.72
+    longitude_:
+      velocity: -0.038
+    latitude_:
+      velocity: -1.21
+dv_Zodiac-index: 1
+dv_ZodiacId: 28096
+dv_NextStarId: 27403
+dv_is_:
+  same_as: "[[../../../WikiData/WD~Sirius,3409|WD~Sirius,3409]]"
+dv_has_name: Sirius
+dv_has_place_altitude_ly: 8.7
+dv_has_place_longitude: 101.275
+dv_has_place_latitude: -16.72
+dv_has_place_longitude_velocity: -0.038
+dv_has_place_latitude_velocity: -1.21
+dv_has_value_for_brightness_min: -15
+dv_has_value_for_brightness_max: -15
+dv_is_same_as: "[[../../../WikiData/WD~Sirius,3409|WD~Sirius,3409]]"
 ---
 
 # [[Sirius]] 
@@ -14,22 +46,22 @@ SpocWebEntityId: 27230
 isDeleted: false
 isReadOnly: false
 confidential: public
-[star-class::A1]
-[star-class-id::28189]
+star-class = `= this.dv_star-class`
+star-class-id = `= this.dv_star-class-id`
 [has_/value_for_/mass_/sol::]
-[has_/name::Sirius]
-[has_/place_/altitude_/ly::8.7]
-[has_/place_/longitude::101.275]
-[has_/place_/latitude::-16.72]
-[has_/place_/longitude_/velocity::-0.038]
-[has_/place_/latitude_/velocity::-1.21]
-[has_/value_for_/brightness_/min::-15]
-[has_/value_for_/brightness_/max::-15]
-[Zodiac-index::1]
-[ZodiacId::28096]
-[NextStarId::27403]
+has_name = `= this.dv_has_name`
+has_place_altitude_ly = `= this.dv_has_place_altitude_ly`
+has_place_longitude = `= this.dv_has_place_longitude`
+has_place_latitude = `= this.dv_has_place_latitude`
+has_place_longitude_velocity = `= this.dv_has_place_longitude_velocity`
+has_place_latitude_velocity = `= this.dv_has_place_latitude_velocity`
+has_value_for_brightness_min = `= this.dv_has_value_for_brightness_min`
+has_value_for_brightness_max = `= this.dv_has_value_for_brightness_max`
+Zodiac-index = `= this.dv_Zodiac-index`
+ZodiacId = `= this.dv_ZodiacId`
+NextStarId = `= this.dv_NextStarId`
 
-#is_/same_as :: [[../../../WikiData/WD~Sirius,3409|WD~Sirius,3409]] 
+is_same_as = `= this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 

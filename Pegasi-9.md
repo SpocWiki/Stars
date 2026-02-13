@@ -1,30 +1,58 @@
 ---
 location:
-- 25.35
-- 28.25
-- 40
+  - 25.35
+  - 28.25
+  - 40
 tags:
-- astro/Star
+  - astro/Star
 type: Star
+dv_star-class: F5
+dv_star-class-id: 28190
+dv_has_:
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 38
+      max: 38
+  name: Pegasi-9
+  place_:
+    altitude_:
+      ly: 40
+    longitude: -28.25
+    latitude: 25.35
+    longitude_:
+      velocity: 0.022
+    latitude_:
+      velocity: 0.03
+dv_Zodiac-index: 9
+dv_ZodiacId: 28144
+dv_has_name: Pegasi-9
+dv_has_place_altitude_ly: 40
+dv_has_place_longitude: -28.25
+dv_has_place_latitude: 25.35
+dv_has_place_longitude_velocity: 0.022
+dv_has_place_latitude_velocity: 0.03
+dv_has_value_for_brightness_min: 38
+dv_has_value_for_brightness_max: 38
 ---
 
 SpocWebEntityId: 27660
 isDeleted: false
 isReadOnly: false
 confidential: public
-[star-class::F5]
-[star-class-id::28190]
+star-class = `= this.dv_star-class`
+star-class-id = `= this.dv_star-class-id`
 [has_/value_for_/mass_/sol::]
-[has_/name::Pegasi-9]
-[has_/place_/altitude_/ly::40]
-[has_/place_/longitude::-28.25]
-[has_/place_/latitude::25.35]
-[has_/place_/longitude_/velocity::0.022]
-[has_/place_/latitude_/velocity::0.03]
-[has_/value_for_/brightness_/min::38]
-[has_/value_for_/brightness_/max::38]
-[Zodiac-index::9]
-[ZodiacId::28144]
+has_name = `= this.dv_has_name`
+has_place_altitude_ly = `= this.dv_has_place_altitude_ly`
+has_place_longitude = `= this.dv_has_place_longitude`
+has_place_latitude = `= this.dv_has_place_latitude`
+has_place_longitude_velocity = `= this.dv_has_place_longitude_velocity`
+has_place_latitude_velocity = `= this.dv_has_place_latitude_velocity`
+has_value_for_brightness_min = `= this.dv_has_value_for_brightness_min`
+has_value_for_brightness_max = `= this.dv_has_value_for_brightness_max`
+Zodiac-index = `= this.dv_Zodiac-index`
+ZodiacId = `= this.dv_ZodiacId`
 [NextStarId::]
 
 

@@ -1,31 +1,60 @@
 ---
 location:
-- 36.8
-- -139.7
-- 90
+  - 36.8
+  - -139.7
+  - 90
 tags:
-- astro/Star
+  - astro/Star
 type: Star
+dv_star-class: A4
+dv_star-class-id: 28189
+dv_has_:
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 38
+      max: 38
+  name: Lyncis-138
+  place_:
+    altitude_:
+      ly: 90
+    longitude: 139.7
+    latitude: 36.8
+    longitude_:
+      velocity: -0.002
+    latitude_:
+      velocity: -0.13
+dv_Zodiac-index: 138
+dv_ZodiacId: 28133
+dv_NextStarId: 27742
+dv_has_name: Lyncis-138
+dv_has_place_altitude_ly: 90
+dv_has_place_longitude: 139.7
+dv_has_place_latitude: 36.8
+dv_has_place_longitude_velocity: -0.002
+dv_has_place_latitude_velocity: -0.13
+dv_has_value_for_brightness_min: 38
+dv_has_value_for_brightness_max: 38
 ---
 
 SpocWebEntityId: 27626
 isDeleted: false
 isReadOnly: false
 confidential: public
-[star-class::A4]
-[star-class-id::28189]
+star-class = `= this.dv_star-class`
+star-class-id = `= this.dv_star-class-id`
 [has_/value_for_/mass_/sol::]
-[has_/name::Lyncis-138]
-[has_/place_/altitude_/ly::90]
-[has_/place_/longitude::139.7]
-[has_/place_/latitude::36.8]
-[has_/place_/longitude_/velocity::-0.002]
-[has_/place_/latitude_/velocity::-0.13]
-[has_/value_for_/brightness_/min::38]
-[has_/value_for_/brightness_/max::38]
-[Zodiac-index::138]
-[ZodiacId::28133]
-[NextStarId::27742]
+has_name = `= this.dv_has_name`
+has_place_altitude_ly = `= this.dv_has_place_altitude_ly`
+has_place_longitude = `= this.dv_has_place_longitude`
+has_place_latitude = `= this.dv_has_place_latitude`
+has_place_longitude_velocity = `= this.dv_has_place_longitude_velocity`
+has_place_latitude_velocity = `= this.dv_has_place_latitude_velocity`
+has_value_for_brightness_min = `= this.dv_has_value_for_brightness_min`
+has_value_for_brightness_max = `= this.dv_has_value_for_brightness_max`
+Zodiac-index = `= this.dv_Zodiac-index`
+ZodiacId = `= this.dv_ZodiacId`
+NextStarId = `= this.dv_NextStarId`
 
 
 

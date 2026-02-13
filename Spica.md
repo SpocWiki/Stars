@@ -1,8 +1,8 @@
 ---
 aliases:
   - α Virginis
-  - Alpha Virginis 
-  - Alpha Vir 
+  - Alpha Virginis
+  - Alpha Vir
   - α Vir
 location:
   - -11.16
@@ -95,6 +95,38 @@ catalog_code:
 spectral_class: B 2 V +B2V
 Commons_category: Spica
 declination: -11.161319485
+dv_star-class: B1
+dv_star-class-id: 28188
+dv_has_:
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 10
+      max: 10
+  name: Spica
+  place_:
+    altitude_:
+      ly: 300
+    longitude: -158.7
+    latitude: -11.16
+    longitude_:
+      velocity: -0.003
+    latitude_:
+      velocity: -0.03
+dv_Zodiac-index: 1
+dv_ZodiacId: 28168
+dv_NextStarId: 27925
+dv_is_:
+  same_as: "[[../../../WikiData/WD~Spica,13008|WD~Spica,13008]]"
+dv_has_name: Spica
+dv_has_place_altitude_ly: 300
+dv_has_place_longitude: -158.7
+dv_has_place_latitude: -11.16
+dv_has_place_longitude_velocity: -0.003
+dv_has_place_latitude_velocity: -0.03
+dv_has_value_for_brightness_min: 10
+dv_has_value_for_brightness_max: 10
+dv_is_same_as: "[[../../../WikiData/WD~Spica,13008|WD~Spica,13008]]"
 ---
 
 # [[Spica]]
@@ -103,22 +135,22 @@ SpocWebEntityId: 27245
 isDeleted: false
 isReadOnly: false
 confidential: public
-[star-class::B1]
-[star-class-id::28188]
+star-class = `= this.dv_star-class`
+star-class-id = `= this.dv_star-class-id`
 [has_/value_for_/mass_/sol::]
-[has_/name::Spica]
-[has_/place_/altitude_/ly::300]
-[has_/place_/longitude::-158.7]
-[has_/place_/latitude::-11.16]
-[has_/place_/longitude_/velocity::-0.003]
-[has_/place_/latitude_/velocity::-0.03]
-[has_/value_for_/brightness_/min::10]
-[has_/value_for_/brightness_/max::10]
-[Zodiac-index::1]
-[ZodiacId::28168]
-[NextStarId::27925]
+has_name = `= this.dv_has_name`
+has_place_altitude_ly = `= this.dv_has_place_altitude_ly`
+has_place_longitude = `= this.dv_has_place_longitude`
+has_place_latitude = `= this.dv_has_place_latitude`
+has_place_longitude_velocity = `= this.dv_has_place_longitude_velocity`
+has_place_latitude_velocity = `= this.dv_has_place_latitude_velocity`
+has_value_for_brightness_min = `= this.dv_has_value_for_brightness_min`
+has_value_for_brightness_max = `= this.dv_has_value_for_brightness_max`
+Zodiac-index = `= this.dv_Zodiac-index`
+ZodiacId = `= this.dv_ZodiacId`
+NextStarId = `= this.dv_NextStarId`
 
-#is_/same_as :: [[../../../WikiData/WD~Spica,13008|WD~Spica,13008]] 
+is_same_as = `= this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 

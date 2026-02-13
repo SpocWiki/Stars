@@ -1,30 +1,58 @@
 ---
 location:
-- -55.25
-- -17.1
-- 250
+  - -55.25
+  - -17.1
+  - 250
 tags:
-- astro/Star
+  - astro/Star
 type: Star
+dv_star-class: B8
+dv_star-class-id: 28188
+dv_has_:
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 39
+      max: 43
+  name: Phoenicis-6
+  place_:
+    altitude_:
+      ly: 250
+    longitude: 17.1
+    latitude: -55.25
+    longitude_:
+      velocity: 0.002
+    latitude_:
+      velocity: 0.03
+dv_Zodiac-index: 6
+dv_ZodiacId: 28146
+dv_has_name: Phoenicis-6
+dv_has_place_altitude_ly: 250
+dv_has_place_longitude: 17.1
+dv_has_place_latitude: -55.25
+dv_has_place_longitude_velocity: 0.002
+dv_has_place_latitude_velocity: 0.03
+dv_has_value_for_brightness_min: 39
+dv_has_value_for_brightness_max: 43
 ---
 
 SpocWebEntityId: 27714
 isDeleted: false
 isReadOnly: false
 confidential: public
-[star-class::B8]
-[star-class-id::28188]
+star-class = `= this.dv_star-class`
+star-class-id = `= this.dv_star-class-id`
 [has_/value_for_/mass_/sol::]
-[has_/name::Phoenicis-6]
-[has_/place_/altitude_/ly::250]
-[has_/place_/longitude::17.1]
-[has_/place_/latitude::-55.25]
-[has_/place_/longitude_/velocity::0.002]
-[has_/place_/latitude_/velocity::0.03]
-[has_/value_for_/brightness_/min::39]
-[has_/value_for_/brightness_/max::43]
-[Zodiac-index::6]
-[ZodiacId::28146]
+has_name = `= this.dv_has_name`
+has_place_altitude_ly = `= this.dv_has_place_altitude_ly`
+has_place_longitude = `= this.dv_has_place_longitude`
+has_place_latitude = `= this.dv_has_place_latitude`
+has_place_longitude_velocity = `= this.dv_has_place_longitude_velocity`
+has_place_latitude_velocity = `= this.dv_has_place_latitude_velocity`
+has_value_for_brightness_min = `= this.dv_has_value_for_brightness_min`
+has_value_for_brightness_max = `= this.dv_has_value_for_brightness_max`
+Zodiac-index = `= this.dv_Zodiac-index`
+ZodiacId = `= this.dv_ZodiacId`
 [NextStarId::]
 
 

@@ -76,28 +76,63 @@ catalog_code:
   - β Cen
 Commons_category: Beta Centauri
 declination: -60.373035162
+dv_star-class: B1
+dv_star-class-id: 28188
+dv_has_:
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 6
+      max: 6
+  name: Agena
+  place_:
+    altitude_:
+      ly: 300
+    longitude: -149.05
+    latitude: -60.37
+    longitude_:
+      velocity: -0.003
+    latitude_:
+      velocity: -0.02
+  previous_:
+    star: "[[Toliman]]"
+dv_Zodiac-index: 2
+dv_ZodiacId: 28101
+dv_NextStarId: 27308
+dv_is_:
+  same_as: "[[../../../WikiData/WD~Beta_Centauri,13175|WD~Beta_Centauri,13175]]"
+dv_has_name: Agena
+dv_has_place_altitude_ly: 300
+dv_has_place_longitude: -149.05
+dv_has_place_latitude: -60.37
+dv_has_place_longitude_velocity: -0.003
+dv_has_place_latitude_velocity: -0.02
+dv_has_value_for_brightness_min: 6
+dv_has_value_for_brightness_max: 6
+dv_is_same_as: "[[../../../WikiData/WD~Beta_Centauri,13175|WD~Beta_Centauri,13175]]"
+dv_has_previous_star: "[[Toliman]]"
 ---
 
 # [[Agena]] 
 
 
-[star-class::B1] 
-[star-class-id::28188] 
+star-class = `= this.dv_star-class` 
+star-class-id = `= this.dv_star-class-id` 
 [has_/value_for_/mass_/sol::] 
-[has_/name::Agena] 
-[has_/place_/altitude_/ly::300] 
-[has_/place_/longitude::-149.05] 
-[has_/place_/latitude::-60.37] 
-[has_/place_/longitude_/velocity::-0.003] 
-[has_/place_/latitude_/velocity::-0.02] 
-[has_/value_for_/brightness_/min::6] 
-[has_/value_for_/brightness_/max::6] 
-[Zodiac-index::2] 
-[ZodiacId::28101] 
-[NextStarId::27308] 
+has_name = `= this.dv_has_name` 
+has_place_altitude_ly = `= this.dv_has_place_altitude_ly` 
+has_place_longitude = `= this.dv_has_place_longitude` 
+has_place_latitude = `= this.dv_has_place_latitude` 
+has_place_longitude_velocity = `= this.dv_has_place_longitude_velocity` 
+has_place_latitude_velocity = `= this.dv_has_place_latitude_velocity` 
+has_value_for_brightness_min = `= this.dv_has_value_for_brightness_min` 
+has_value_for_brightness_max = `= this.dv_has_value_for_brightness_max` 
+Zodiac-index = `= this.dv_Zodiac-index` 
+ZodiacId = `= this.dv_ZodiacId` 
+NextStarId = `= this.dv_NextStarId` 
 
-#is_/same_as :: [[../../../WikiData/WD~Beta_Centauri,13175|WD~Beta_Centauri,13175]] 
-#has_/previous_/star :: [[Toliman]] 
+is_same_as = `= this.dv_is_same_as`
+has_previous_star = `= this.dv_has_previous_star`
 
 
 ## #has_/text_of_/abstract 

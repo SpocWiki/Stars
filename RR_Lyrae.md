@@ -54,12 +54,16 @@ catalog_code:
   - uvby98 100182989
   - uvby98 100182989 V
   - WEB 16701
+dv_ZodiacId: 28134
+dv_is_:
+  same_as: "[[../../../WikiData/WD~RR_Lyrae,370994|WD~RR_Lyrae,370994]]"
+dv_is_same_as: "[[../../../WikiData/WD~RR_Lyrae,370994|WD~RR_Lyrae,370994]]"
 ---
 
 # [[RR_Lyrae]] 
 
-[ZodiacId::28134] 
-#is_/same_as :: [[../../../WikiData/WD~RR_Lyrae,370994|WD~RR_Lyrae,370994]]  
+ZodiacId = `= this.dv_ZodiacId` 
+is_same_as = `= this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 

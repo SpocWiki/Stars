@@ -70,11 +70,14 @@ catalog_code:
   - Zkh 269
 Commons_category: Barnard's Star
 declination: 4.6933642650633
+dv_is_:
+  same_as: "[[WD~#Barnard s_Star 14268|WD~ > Barnard s_Star 14268]]"
+dv_is_same_as: "[[WD~#Barnard s_Star 14268|WD~ > Barnard s_Star 14268]]"
 ---
 
 # [[Barnard's_Star]] 
 
-#is_/same_as :: [[WD~# Barnard's_Star,14268]]
+is_same_as = `= this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 

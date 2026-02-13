@@ -1,31 +1,60 @@
 ---
 location:
-- -14.85
-- -147.875
-- 150
+  - -14.85
+  - -147.875
+  - 150
 tags:
-- astro/Star
+  - astro/Star
 type: Star
+dv_star-class: G8
+dv_star-class-id: 28191
+dv_has_:
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 41
+      max: 41
+  name: Hydrae-139
+  place_:
+    altitude_:
+      ly: 150
+    longitude: 147.875
+    latitude: -14.85
+    longitude_:
+      velocity: 0.001
+    latitude_:
+      velocity: -0.03
+dv_Zodiac-index: 139
+dv_ZodiacId: 28124
+dv_NextStarId: 27281
+dv_has_name: Hydrae-139
+dv_has_place_altitude_ly: 150
+dv_has_place_longitude: 147.875
+dv_has_place_latitude: -14.85
+dv_has_place_longitude_velocity: 0.001
+dv_has_place_latitude_velocity: -0.03
+dv_has_value_for_brightness_min: 41
+dv_has_value_for_brightness_max: 41
 ---
 
 SpocWebEntityId: 27807
 isDeleted: false
 isReadOnly: false
 confidential: public
-[star-class::G8]
-[star-class-id::28191]
+star-class = `= this.dv_star-class`
+star-class-id = `= this.dv_star-class-id`
 [has_/value_for_/mass_/sol::]
-[has_/name::Hydrae-139]
-[has_/place_/altitude_/ly::150]
-[has_/place_/longitude::147.875]
-[has_/place_/latitude::-14.85]
-[has_/place_/longitude_/velocity::0.001]
-[has_/place_/latitude_/velocity::-0.03]
-[has_/value_for_/brightness_/min::41]
-[has_/value_for_/brightness_/max::41]
-[Zodiac-index::139]
-[ZodiacId::28124]
-[NextStarId::27281]
+has_name = `= this.dv_has_name`
+has_place_altitude_ly = `= this.dv_has_place_altitude_ly`
+has_place_longitude = `= this.dv_has_place_longitude`
+has_place_latitude = `= this.dv_has_place_latitude`
+has_place_longitude_velocity = `= this.dv_has_place_longitude_velocity`
+has_place_latitude_velocity = `= this.dv_has_place_latitude_velocity`
+has_value_for_brightness_min = `= this.dv_has_value_for_brightness_min`
+has_value_for_brightness_max = `= this.dv_has_value_for_brightness_max`
+Zodiac-index = `= this.dv_Zodiac-index`
+ZodiacId = `= this.dv_ZodiacId`
+NextStarId = `= this.dv_NextStarId`
 
 
 

@@ -94,6 +94,38 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Polaris.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Polaris%20alpha%20ursae%20minoris.jpg
 spectral_class: F7 :IB-II SB,V
+dv_star-class: F8
+dv_star-class-id: 28190
+dv_has_:
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 20
+      max: 20
+  name: Polaris
+  place_:
+    altitude_:
+      ly: 800
+    longitude: 37.95
+    latitude: 89.26
+    longitude_:
+      velocity: 0.232
+    latitude_:
+      velocity: -0.01
+dv_Zodiac-index: 1
+dv_ZodiacId: 28166
+dv_NextStarId: 27907
+dv_is_:
+  same_as: "[[../../../WikiData/WD~Polaris,12980|WD~Polaris,12980]]"
+dv_has_name: Polaris
+dv_has_place_altitude_ly: 800
+dv_has_place_longitude: 37.95
+dv_has_place_latitude: 89.26
+dv_has_place_longitude_velocity: 0.232
+dv_has_place_latitude_velocity: -0.01
+dv_has_value_for_brightness_min: 20
+dv_has_value_for_brightness_max: 20
+dv_is_same_as: "[[../../../WikiData/WD~Polaris,12980|WD~Polaris,12980]]"
 ---
 
 # [[Polaris]] 
@@ -102,22 +134,22 @@ SpocWebEntityId: 27275
 isDeleted: false
 isReadOnly: false
 confidential: public
-[star-class::F8]
-[star-class-id::28190]
+star-class = `= this.dv_star-class`
+star-class-id = `= this.dv_star-class-id`
 [has_/value_for_/mass_/sol::]
-[has_/name::Polaris]
-[has_/place_/altitude_/ly::800]
-[has_/place_/longitude::37.95]
-[has_/place_/latitude::89.26]
-[has_/place_/longitude_/velocity::0.232]
-[has_/place_/latitude_/velocity::-0.01]
-[has_/value_for_/brightness_/min::20]
-[has_/value_for_/brightness_/max::20]
-[Zodiac-index::1]
-[ZodiacId::28166]
-[NextStarId::27907]
+has_name = `= this.dv_has_name`
+has_place_altitude_ly = `= this.dv_has_place_altitude_ly`
+has_place_longitude = `= this.dv_has_place_longitude`
+has_place_latitude = `= this.dv_has_place_latitude`
+has_place_longitude_velocity = `= this.dv_has_place_longitude_velocity`
+has_place_latitude_velocity = `= this.dv_has_place_latitude_velocity`
+has_value_for_brightness_min = `= this.dv_has_value_for_brightness_min`
+has_value_for_brightness_max = `= this.dv_has_value_for_brightness_max`
+Zodiac-index = `= this.dv_Zodiac-index`
+ZodiacId = `= this.dv_ZodiacId`
+NextStarId = `= this.dv_NextStarId`
 
-#is_/same_as :: [[../../../WikiData/WD~Polaris,12980|WD~Polaris,12980]] 
+is_same_as = `= this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 

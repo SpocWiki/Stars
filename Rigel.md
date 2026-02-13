@@ -94,6 +94,38 @@ catalog_code:
   - WEB 4731
   - β Ori
 Commons_category: Rigel
+dv_star-class: B8
+dv_star-class-id: 28188
+dv_has_:
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 1
+      max: 1
+  name: Rigel
+  place_:
+    altitude_:
+      ly: 1000
+    longitude: 78.625
+    latitude: -8.2
+    longitude_:
+      velocity: 0
+    latitude_:
+      velocity: 0
+dv_Zodiac-index: 2
+dv_ZodiacId: 28142
+dv_NextStarId: 27288
+dv_is_:
+  same_as: "[[../../../WikiData/WD~Rigel,12126|WD~Rigel,12126]]"
+dv_has_name: Rigel
+dv_has_place_altitude_ly: 1000
+dv_has_place_longitude: 78.625
+dv_has_place_latitude: -8.2
+dv_has_place_longitude_velocity: 0
+dv_has_place_latitude_velocity: 0
+dv_has_value_for_brightness_min: 1
+dv_has_value_for_brightness_max: 1
+dv_is_same_as: "[[../../../WikiData/WD~Rigel,12126|WD~Rigel,12126]]"
 ---
 
 # [[Rigel]] 
@@ -102,21 +134,21 @@ SpocWebEntityId: 27236
 isDeleted: false
 isReadOnly: false
 confidential: public
-[star-class::B8]
-[star-class-id::28188]
+star-class = `= this.dv_star-class`
+star-class-id = `= this.dv_star-class-id`
 [has_/value_for_/mass_/sol::]
-[has_/name::Rigel]
-[has_/place_/altitude_/ly::1000]
-[has_/place_/longitude::78.625]
-[has_/place_/latitude::-8.2]
-[has_/place_/longitude_/velocity::0]
-[has_/place_/latitude_/velocity::0]
-[has_/value_for_/brightness_/min::1]
-[has_/value_for_/brightness_/max::1]
-[Zodiac-index::2]
-[ZodiacId::28142]
-[NextStarId::27288]
-#is_/same_as :: [[../../../WikiData/WD~Rigel,12126|WD~Rigel,12126]] 
+has_name = `= this.dv_has_name`
+has_place_altitude_ly = `= this.dv_has_place_altitude_ly`
+has_place_longitude = `= this.dv_has_place_longitude`
+has_place_latitude = `= this.dv_has_place_latitude`
+has_place_longitude_velocity = `= this.dv_has_place_longitude_velocity`
+has_place_latitude_velocity = `= this.dv_has_place_latitude_velocity`
+has_value_for_brightness_min = `= this.dv_has_value_for_brightness_min`
+has_value_for_brightness_max = `= this.dv_has_value_for_brightness_max`
+Zodiac-index = `= this.dv_Zodiac-index`
+ZodiacId = `= this.dv_ZodiacId`
+NextStarId = `= this.dv_NextStarId`
+is_same_as = `= this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 

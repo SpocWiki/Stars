@@ -1,31 +1,60 @@
 ---
 location:
-- -41.864
-- -70.142
-- 65
+  - -41.864
+  - -70.142
+  - 65
 tags:
-- astro/Star
+  - astro/Star
 type: Star
+dv_star-class: F2
+dv_star-class-id: 28190
+dv_has_:
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 45
+      max: 45
+  name: Caeli-1
+  place_:
+    altitude_:
+      ly: 65
+    longitude: 70.142
+    latitude: -41.864
+    longitude_:
+      velocity: -0.014
+    latitude_:
+      velocity: -0.08
+dv_Zodiac-index: 1
+dv_ZodiacId: 28092
+dv_NextStarId: 28053
+dv_has_name: Caeli-1
+dv_has_place_altitude_ly: 65
+dv_has_place_longitude: 70.142
+dv_has_place_latitude: -41.864
+dv_has_place_longitude_velocity: -0.014
+dv_has_place_latitude_velocity: -0.08
+dv_has_value_for_brightness_min: 45
+dv_has_value_for_brightness_max: 45
 ---
 
 SpocWebEntityId: 28052
 isDeleted: false
 isReadOnly: false
 confidential: public
-[star-class::F2]
-[star-class-id::28190]
+star-class = `= this.dv_star-class`
+star-class-id = `= this.dv_star-class-id`
 [has_/value_for_/mass_/sol::]
-[has_/name::Caeli-1]
-[has_/place_/altitude_/ly::65]
-[has_/place_/longitude::70.142]
-[has_/place_/latitude::-41.864]
-[has_/place_/longitude_/velocity::-0.014]
-[has_/place_/latitude_/velocity::-0.08]
-[has_/value_for_/brightness_/min::45]
-[has_/value_for_/brightness_/max::45]
-[Zodiac-index::1]
-[ZodiacId::28092]
-[NextStarId::28053]
+has_name = `= this.dv_has_name`
+has_place_altitude_ly = `= this.dv_has_place_altitude_ly`
+has_place_longitude = `= this.dv_has_place_longitude`
+has_place_latitude = `= this.dv_has_place_latitude`
+has_place_longitude_velocity = `= this.dv_has_place_longitude_velocity`
+has_place_latitude_velocity = `= this.dv_has_place_latitude_velocity`
+has_value_for_brightness_min = `= this.dv_has_value_for_brightness_min`
+has_value_for_brightness_max = `= this.dv_has_value_for_brightness_max`
+Zodiac-index = `= this.dv_Zodiac-index`
+ZodiacId = `= this.dv_ZodiacId`
+NextStarId = `= this.dv_NextStarId`
 
 
 

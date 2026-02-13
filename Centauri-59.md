@@ -1,30 +1,58 @@
 ---
 location:
-- -54.56
-- 154.575
-- 400
+  - -54.56
+  - 154.575
+  - 400
 tags:
-- astro/Star
+  - astro/Star
 type: Star
+dv_star-class: B8
+dv_star-class-id: 28188
+dv_has_:
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 50
+      max: 50
+  name: Centauri-59
+  place_:
+    altitude_:
+      ly: 400
+    longitude: -154.575
+    latitude: -54.56
+    longitude_:
+      velocity: -0.005
+    latitude_:
+      velocity: -0.05
+dv_Zodiac-index: 59
+dv_ZodiacId: 28101
+dv_has_name: Centauri-59
+dv_has_place_altitude_ly: 400
+dv_has_place_longitude: -154.575
+dv_has_place_latitude: -54.56
+dv_has_place_longitude_velocity: -0.005
+dv_has_place_latitude_velocity: -0.05
+dv_has_value_for_brightness_min: 50
+dv_has_value_for_brightness_max: 50
 ---
 
 SpocWebEntityId: 28046
 isDeleted: false
 isReadOnly: false
 confidential: public
-[star-class::B8]
-[star-class-id::28188]
+star-class = `= this.dv_star-class`
+star-class-id = `= this.dv_star-class-id`
 [has_/value_for_/mass_/sol::]
-[has_/name::Centauri-59]
-[has_/place_/altitude_/ly::400]
-[has_/place_/longitude::-154.575]
-[has_/place_/latitude::-54.56]
-[has_/place_/longitude_/velocity::-0.005]
-[has_/place_/latitude_/velocity::-0.05]
-[has_/value_for_/brightness_/min::50]
-[has_/value_for_/brightness_/max::50]
-[Zodiac-index::59]
-[ZodiacId::28101]
+has_name = `= this.dv_has_name`
+has_place_altitude_ly = `= this.dv_has_place_altitude_ly`
+has_place_longitude = `= this.dv_has_place_longitude`
+has_place_latitude = `= this.dv_has_place_latitude`
+has_place_longitude_velocity = `= this.dv_has_place_longitude_velocity`
+has_place_latitude_velocity = `= this.dv_has_place_latitude_velocity`
+has_value_for_brightness_min = `= this.dv_has_value_for_brightness_min`
+has_value_for_brightness_max = `= this.dv_has_value_for_brightness_max`
+Zodiac-index = `= this.dv_Zodiac-index`
+ZodiacId = `= this.dv_ZodiacId`
 [NextStarId::]
 
 
