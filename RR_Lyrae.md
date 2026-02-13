@@ -1,26 +1,42 @@
 ---
 aliases:
+- RR de la Lira
+- RR de Liro
+- RR Lira
+- RR Lyrae
+- RR Λύρας
+- RR Ліри
+- RR Ліры
+- RR Лира
+- RR Лиры
+- RR-lirida
+- آر آر ليراي
+- آرآر شلیاق
+- ആര്ആര് എല്വൈആര്എഇ
+- こと座RR星
+- 天琴座RR
+- 거문고자리 RR
 has_id_wikidata: Q370994
 instance_of:
-  - "[[_Standards/WikiData/WD~RR_Lyrae_variable,726242]]"
-  - "[[_Standards/WikiData/WD~high_proper_motion_star,2247863]]"
-  - "[[_Standards/WikiData/WD~variable_star,6243]]"
-type_of_variable_star: "[[_Standards/WikiData/WD~RR_Lyrae_variable_with_asymmetric_light_curves,66725273]]"
+- '[[_Standards/WikiData/WD~RR_Lyrae_variable,726242]]'
+- '[[_Standards/WikiData/WD~high_proper_motion_star,2247863]]'
+- '[[_Standards/WikiData/WD~variable_star,6243]]'
+type_of_variable_star: '[[_Standards/WikiData/WD~RR_Lyrae_variable_with_asymmetric_light_curves,66725273]]'
 declination_component_of_proper_motion: -195.476
 right_ascension_component_of_proper_motion: -109.108
 radial_velocity: -96.46
-constellation: "[[_Standards/WikiData/WD~Lyra,10484]]"
+constellation: '[[_Standards/WikiData/WD~Lyra,10484]]'
 metallicity: -1.45
 distance_from_Earth: 0.3
 surface_gravity: 1100
 mass: 0.65
 apparent_magnitude:
-  - 7.6
-  - 7.36
-  - 6.648
-  - 6.693
-  - 6.949
-  - 17.0405
+- 7.6
+- 7.36
+- 6.648
+- 6.693
+- 6.949
+- 17.0405
 parallax: 3.64
 effective_temperature: 6304
 spectral_class: F5
@@ -29,37 +45,79 @@ right_ascension: 291.3663013467642
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RR%20Lyrae.png
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Rr%20lyrae%20aavso.png
 catalog_code:
-  - 2MASS J19252793+4247040
-  - AG+42 1698
-  - ASCC 425414
-  - BD+42 3338
-  - Gaia DR2 2125982599341232896
-  - GC 26836
-  - GCRV 11873
-  - GSC 03142-00494
-  - HD 182989
-  - HIC 95497
-  - HIP 95497
-  - KIC 7198959
-  - LSPM J1925+4247
-  - LTT 15677
-  - NLTT 47799
-  - PLX 4550
-  - PLX 4550.00
-  - PPM 58291
-  - RR Lyr
-  - SAO 48421
-  - TD1 24704
-  - TYC 3142-494-1
-  - uvby98 100182989
-  - uvby98 100182989 V
-  - WEB 16701
+- 2MASS J19252793+4247040
+- AG+42 1698
+- ASCC 425414
+- BD+42 3338
+- Gaia DR2 2125982599341232896
+- GC 26836
+- GCRV 11873
+- GSC 03142-00494
+- HD 182989
+- HIC 95497
+- HIP 95497
+- KIC 7198959
+- LSPM J1925+4247
+- LTT 15677
+- NLTT 47799
+- PLX 4550
+- PLX 4550.00
+- PPM 58291
+- RR Lyr
+- SAO 48421
+- TD1 24704
+- TYC 3142-494-1
+- uvby98 100182989
+- uvby98 100182989 V
+- WEB 16701
 dv_ZodiacId: 28134
 dv_is_:
-  same_as: "[[../../../WikiData/WD~RR_Lyrae,370994|WD~RR_Lyrae,370994]]"
-dv_is_same_as: "[[../../../WikiData/WD~RR_Lyrae,370994|WD~RR_Lyrae,370994]]"
+  same_as: '[[../../../WikiData/WD~RR_Lyrae,370994|WD~RR_Lyrae,370994]]'
+dv_is_same_as: '[[../../../WikiData/WD~RR_Lyrae,370994|WD~RR_Lyrae,370994]]'
+dv_has_:
+  name_:
+    ar: آر آر ليراي
+    ast: RR Lyrae
+    be-tarask: RR Ліры
+    ca: RR de la Lira
+    cs: RR Lyrae
+    da: RR Lyrae
+    de: RR Lyrae
+    dv: RR Lyrae
+    el: RR Λύρας
+    en: RR Lyrae
+    eo: RR de Liro
+    es: RR Lyrae
+    eu: RR Lyrae
+    fa: آرآر شلیاق
+    fi: RR Lyrae
+    fr: RR Lyrae
+    ga: RR Lyrae
+    hr: RR-lirida
+    hu: RR Lyrae
+    it: RR Lyrae
+    ja: こと座RR星
+    ko: 거문고자리 RR
+    mk: RR Лира
+    ml: ആര്ആര് എല്വൈആര്എഇ
+    nb: RR Lyrae
+    nl: RR Lyrae
+    oc: RR Lyrae
+    pl: RR Lyrae
+    pt: RR Lyrae
+    ro: RR Lyrae
+    ru: RR Лиры
+    sk: RR Lyrae
+    sl: RR Lyrae
+    sr: RR Lira
+    sv: RR Lyrae
+    tr: RR Lyrae
+    uk: RR Ліри
+    vi: RR Lyrae
+    wuu: 天琴座RR
+    yue: 天琴座RR
+    zh: 天琴座RR
 ---
-
 # [[RR_Lyrae]] 
 
 ZodiacId = `= this.dv_ZodiacId` 

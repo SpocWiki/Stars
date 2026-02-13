@@ -1,90 +1,124 @@
 ---
 aliases:
-  - α Lyrae
-  - Alpha Lyrae
-  - Alpha Lyr
-  - α Lyr
-  - Wega
-  - Vega
+- Alpha Lyr
+- Alpha Lyrae
+- Blástjarnan
+- sao Chức Nữ
+- Stjerna Vega
+- Veega
+- Vega
+- Vego
+- Veqa
+- Véga
+- Wega
+- Whānui
+- α Lyr
+- α Lyrae
+- Βέγας
+- Ак Жылдыз
+- Вегæ
+- Вега
+- Вега (жұлдыз)
+- Вэга
+- Վեգա
+- וגה
+- نسر واقع
+- ویگا
+- अभिजित तारा
+- अभिजित् तारा
+- অভিজিৎ
+- ਅਭਿਜੀਤ ਤਾਰਾ
+- சோதி விண்மீன்
+- వేగా నక్షత్రం
+- അഭിജിത് (നക്ഷത്രം)
+- ดาวเวกา
+- ဗီးဂ
+- ვეგა
+- ᠵᠣᡩᠣᡵᡤᠠᠨ ᡠᠰᡳᡥᠠ
+- ベガ
+- 織女一
+- 織女星
+- 织女一
+- 베가
 has_id_wikidata: Q3427
 location:
-  - 38.78
-  - 80.775
-  - 25
+- 38.78
+- 80.775
+- 25
 tags:
-  - astro/Star
+- astro/Star
 type: Star
 catalog_code:
-  - uvby98 100172167
-  - WDS J18369+3846A
-  - WEB 15681
-  - Zkh 277
-  - α Lyr
-  - 2MASS J18365633+3847012
-  - 3 Lyr
-  - ADS 11510 A
-  - AG+38 1711
-  - alf Lyr
-  - ASCC 507896
-  - BD+38 3238
-  - CCDM J18369+3847A
-  - CEL 4636
-  - CSV 101745
-  - EUVE J1836+38.7
-  - FK5 699
-  - GC 25466
-  - GCRV 11085
-  - GJ 721
-  - GJ 721.0
-  - HD 172167
-  - HGAM 706
-  - HIC 91262
-  - HIP 91262
-  - HR 7001
-  - IDS 18336+3841 A
-  - IRAS 18352+3844
-  - IRAS F18352+3844
-  - IRC +40322
-  - JP11 2999
-  - LSPM J1836+3847
-  - LTT 15486
-  - N30 4138
-  - NLTT 46746
-  - NSV 11128
-  - PLX 4293
-  - PLX 4293.00
-  - PMC 90-93 496
-  - PPM 81558
-  - RAFGL 2208
-  - ROT 2633
-  - SAO 67174
-  - TD1 22883
-  - TIC 157587146
-  - TYC 3105-2070-1
-  - UBV 15842
-  - UBV M 23118
+- uvby98 100172167
+- WDS J18369+3846A
+- WEB 15681
+- Zkh 277
+- α Lyr
+- 2MASS J18365633+3847012
+- 3 Lyr
+- ADS 11510 A
+- AG+38 1711
+- alf Lyr
+- ASCC 507896
+- BD+38 3238
+- CCDM J18369+3847A
+- CEL 4636
+- CSV 101745
+- EUVE J1836+38.7
+- FK5 699
+- GC 25466
+- GCRV 11085
+- GJ 721
+- GJ 721.0
+- HD 172167
+- HGAM 706
+- HIC 91262
+- HIP 91262
+- HR 7001
+- IDS 18336+3841 A
+- IRAS 18352+3844
+- IRAS F18352+3844
+- IRC +40322
+- JP11 2999
+- LSPM J1836+3847
+- LTT 15486
+- N30 4138
+- NLTT 46746
+- NSV 11128
+- PLX 4293
+- PLX 4293.00
+- PMC 90-93 496
+- PPM 81558
+- RAFGL 2208
+- ROT 2633
+- SAO 67174
+- TD1 22883
+- TIC 157587146
+- TYC 3105-2070-1
+- UBV 15842
+- UBV M 23118
 right_ascension: 279.234734787
 part_of:
-  - "[[_Standards/WikiData/WD~Summer_Triangle,324113]]"
-  - "[[_Standards/WikiData/WD~Castor_Moving_Group,1049735]]"
+- '[[_Standards/WikiData/WD~Summer_Triangle,324113]]'
+- '[[_Standards/WikiData/WD~Castor_Moving_Group,1049735]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~A_type_main_sequence_star,471805]]"
-  - "[[_Standards/WikiData/WD~Delta_Scuti_variable,836976]]"
-  - "[[_Standards/WikiData/WD~navigational_star,1547772]]"
-  - "[[_Standards/WikiData/WD~high_proper_motion_star,2247863]]"
-  - "[[_Standards/WikiData/WD~near_IR_source,67206785]]"
-  - "[[_Standards/WikiData/WD~UV_emission_source,71798788]]"
-  - "[[_Standards/WikiData/WD~variable_star,6243]]"
-  - "[[_Standards/WikiData/WD~double_star,13890]]"
+- '[[_Standards/WikiData/WD~A_type_main_sequence_star,471805]]'
+- '[[_Standards/WikiData/WD~Delta_Scuti_variable,836976]]'
+- '[[_Standards/WikiData/WD~navigational_star,1547772]]'
+- '[[_Standards/WikiData/WD~high_proper_motion_star,2247863]]'
+- '[[_Standards/WikiData/WD~near_IR_source,67206785]]'
+- '[[_Standards/WikiData/WD~UV_emission_source,71798788]]'
+- '[[_Standards/WikiData/WD~variable_star,6243]]'
+- '[[_Standards/WikiData/WD~double_star,13890]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-type_of_variable_star: "[[_Standards/WikiData/WD~Delta_Scuti_variable,836976]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+type_of_variable_star: '[[_Standards/WikiData/WD~Delta_Scuti_variable,836976]]'
 declination: 38.783688956
-constellation: "[[_Standards/WikiData/WD~Lyra,10484]]"
+constellation: '[[_Standards/WikiData/WD~Lyra,10484]]'
 radial_velocity: -20.6
 metallicity: -0.5
 apparent_magnitude: 0.03
@@ -102,21 +136,109 @@ luminosity: 40.12
 right_ascension_component_of_proper_motion: 201.85
 declination_component_of_proper_motion: 285.46
 Commons_category: Vega
-OmegaWiki_Defined_Meaning: "1112791"
-ARICNS: "01497"
+OmegaWiki_Defined_Meaning: 1112791
+ARICNS: 01497
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vega%20Spitzer.jpg
 spectral_class: A0Va
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Wega%20in%20Leier.png
 dv_star-class: A0
 dv_star-class-id: 28189
 dv_has_:
-  value_for_:
-    mass_:
-      sol: 2.1
-    brightness_:
-      min: 0
-      max: 0
   name: Wega
+  name_:
+    af: Vega
+    ar: Vega
+    as: অভিজিৎ
+    ast: Vega
+    az: Veqa
+    be: Вега
+    be-tarask: Вэга
+    bg: Вега
+    bn: অভিজিৎ
+    bpy: অভিজিৎ
+    br: Vega
+    bs: Vega
+    ca: Vega
+    cs: Vega
+    cy: Vega
+    da: Vega
+    de: Wega
+    dv: Vega
+    el: Βέγας
+    en: Vega
+    en-us: Vega
+    eo: Vego
+    es: Vega
+    et: Veega
+    eu: Vega
+    fa: نسر واقع
+    fi: Vega
+    fr: Véga
+    ga: Vega
+    gl: Vega
+    he: וגה
+    hi: अभिजित् तारा
+    hr: Vega
+    hu: Vega
+    hy: Վեգա
+    id: Vega
+    is: Blástjarnan
+    it: Vega
+    ja: ベガ
+    ka: ვეგა
+    kk: Вега (жұлдыз)
+    ko: 베가
+    ku: Vega
+    kv: Вега
+    ky: Ак Жылдыз
+    la: Vega
+    lb: Vega
+    lt: Vega
+    lv: Vega
+    mg: Alpha Lyrae
+    mi: Whānui
+    mk: Вега
+    ml: അഭിജിത് (നക്ഷത്രം)
+    mnc: ᠵᠣᡩᠣᡵᡤᠠᠨ ᡠᠰᡳᡥᠠ
+    ms: Vega
+    mul: α Lyr
+    my: ဗီးဂ
+    nan: Vega
+    nb: Vega
+    ne: अभिजित तारा
+    nl: Wega
+    nn: Stjerna Vega
+    oc: Vega
+    os: Вегæ
+    pa: ਅਭਿਜੀਤ ਤਾਰਾ
+    pl: Wega
+    pnb: ویگا
+    pt: Vega
+    ro: Vega
+    ru: Вега
+    sh: Vega
+    sk: Vega
+    sl: Vega
+    sq: Vega
+    sr: Вега
+    sr-ec: Вега
+    sr-el: Vega
+    sv: Vega
+    sw: Vega
+    ta: சோதி விண்மீன்
+    te: వేగా నక్షత్రం
+    th: ดาวเวกา
+    tr: Vega
+    tt: Вега
+    tt-cyrl: Вега
+    uk: Вега
+    ur: ویگا
+    uz: Vega
+    vi: sao Chức Nữ
+    war: Vega
+    wuu: 织女一
+    yue: 織女星
+    zh: 織女一
   place_:
     altitude_:
       ly: 25
@@ -126,11 +248,17 @@ dv_has_:
       velocity: 0.017
     latitude_:
       velocity: 0.28
+  value_for_:
+    mass_:
+      sol: 2.1
+    brightness_:
+      min: 0
+      max: 0
 dv_Zodiac-index: 1
 dv_ZodiacId: 28134
 dv_NextStarId: 27797
 dv_is_:
-  same_as: "[[../../../WikiData/WD~Vega,3427]]"
+  same_as: '[[../../../WikiData/WD~Vega,3427]]'
 dv_has_value_for_mass_sol: 2.1
 dv_has_name: Wega
 dv_has_place_altitude_ly: 25
@@ -140,9 +268,8 @@ dv_has_place_longitude_velocity: 0.017
 dv_has_place_latitude_velocity: 0.28
 dv_has_value_for_brightness_min: 0
 dv_has_value_for_brightness_max: 0
-dv_is_same_as: "[[../../../WikiData/WD~Vega,3427]]"
+dv_is_same_as: '[[../../../WikiData/WD~Vega,3427]]'
 ---
-
 # [[Vega]] 
 
 SpocWebEntityId: 27233 

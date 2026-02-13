@@ -1,25 +1,25 @@
 ---
 location:
-  - 46
-  - -79.175
-  - 40
+- 46
+- -79.175
+- 40
 tags:
-  - astro/Star
+- astro/Star
 type: Star
 has_id_wikidata: Q12970
-part_of: "[[_Standards/WikiData/WD~Winter_Hexagon,515922]]"
+part_of: '[[_Standards/WikiData/WD~Winter_Hexagon,515922]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~multiple_star,878367]]"
-  - "[[_Standards/WikiData/WD~navigational_star,1547772]]"
-type_of_variable_star: "[[_Standards/WikiData/WD~RS_Canum_Venaticorum_variable,1392913]]"
+- '[[_Standards/WikiData/WD~multiple_star,878367]]'
+- '[[_Standards/WikiData/WD~navigational_star,1547772]]'
+type_of_variable_star: '[[_Standards/WikiData/WD~RS_Canum_Venaticorum_variable,1392913]]'
 declination_component_of_proper_motion: -426.89
-constellation: "[[_Standards/WikiData/WD~Auriga,10476]]"
+constellation: '[[_Standards/WikiData/WD~Auriga,10476]]'
 apparent_magnitude: 0.08
 distance_from_Earth: 13
 surface_gravity: 1400
@@ -29,74 +29,145 @@ absolute_magnitude: 0.296
 effective_temperature: 5272
 right_ascension_component_of_proper_motion: 75.25
 parallax: 76.67
-ARICNS: "00429"
+ARICNS: 00429
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Auriga%20constellation%20map.svg
 Commons_category: Capella
 catalog_code:
-  - 13 Aur
-  - 1RXS J051642.2+460001
-  - 2EUVE J0516+45.9
-  - 2MASS J05164138+4559525
-  - AAVSO 0509+45
-  - ADS 3841 AP
-  - AG+45 512
-  - ASCC 317037
-  - BD+45 1077
-  - CCDM J05168+4559AP
-  - CEL 586
-  - Ci 20 321
-  - CSV 100460
-  - EUVE J0516+45.9
-  - FK5 193
-  - GC 6427
-  - GCRV 3121
-  - GJ 194
-  - GJ 194 A
-  - GJ 194 B
-  - HD 34029
-  - HIC 24608
-  - HIP 24608
-  - HR 1708
-  - IDS 05093+4554 AP
-  - IRAS 05130+4556
-  - IRC +50139
-  - JP11 1010
-  - LSPM J0516+4559
-  - LTT 11619
-  - N30 1121
-  - NLTT 14766
-  - NSV 1897
-  - PLX 1187
-  - PMC 90-93 139
-  - PMSC 05093+4553AB
-  - PPM 47925
-  - RAFGL 713
-  - RX J0516.7+4559
-  - SAO 40186
-  - SBC7 214
-  - SBC9 306
-  - TD1 4244
-  - TIC 368326352
-  - TYC 3358-3141-1
-  - UBV 5009
-  - uvby98 100034029
-  - WDS J05167+4600A
-  - WDS J05167+4600Aa,Ab
-  - WEB 4762
-  - YPAC 23
-  - α Aur
-spectral_class: "G3III:"
+- 13 Aur
+- 1RXS J051642.2+460001
+- 2EUVE J0516+45.9
+- 2MASS J05164138+4559525
+- AAVSO 0509+45
+- ADS 3841 AP
+- AG+45 512
+- ASCC 317037
+- BD+45 1077
+- CCDM J05168+4559AP
+- CEL 586
+- Ci 20 321
+- CSV 100460
+- EUVE J0516+45.9
+- FK5 193
+- GC 6427
+- GCRV 3121
+- GJ 194
+- GJ 194 A
+- GJ 194 B
+- HD 34029
+- HIC 24608
+- HIP 24608
+- HR 1708
+- IDS 05093+4554 AP
+- IRAS 05130+4556
+- IRC +50139
+- JP11 1010
+- LSPM J0516+4559
+- LTT 11619
+- N30 1121
+- NLTT 14766
+- NSV 1897
+- PLX 1187
+- PMC 90-93 139
+- PMSC 05093+4553AB
+- PPM 47925
+- RAFGL 713
+- RX J0516.7+4559
+- SAO 40186
+- SBC7 214
+- SBC9 306
+- TD1 4244
+- TIC 368326352
+- TYC 3358-3141-1
+- UBV 5009
+- uvby98 100034029
+- WDS J05167+4600A
+- WDS J05167+4600Aa,Ab
+- WEB 4762
+- YPAC 23
+- α Aur
+spectral_class: 'G3III:'
 declination: 45.99799147
 right_ascension: 79.172327944
 dv_star-class: G5
 dv_star-class-id: 28191
 dv_has_:
-  value_for_:
-    mass_: {}
-    brightness_:
-      min: 1
-      max: 1
   name: Capella
+  name_:
+    af: Capella
+    an: Capella
+    ar: العيوق
+    as: ব্ৰহ্মহৃদয়
+    ast: Capella
+    az: Kapella
+    be: Капела
+    be-tarask: Капэля
+    bg: Капела
+    bs: Alpha Aurigae
+    ca: Capella
+    cs: Capella
+    cy: Capella
+    da: Capella
+    de: Capella
+    el: Αίγα
+    en: Capella
+    en-gb: Capella
+    eo: Capella
+    es: Capella
+    et: Kapella
+    eu: Capella
+    ext: Capella
+    fa: سروش
+    fi: Capella
+    fr: Capella
+    ga: Capella
+    gl: Capella
+    he: קאפלה
+    hi: ब्रह्महृदय तारा
+    hr: Capella
+    hu: Capella
+    hy: Կապելլա
+    ia: Capella
+    id: Capella
+    ie: Capella
+    io: Capella
+    it: Capella
+    ja: カペラ (恒星)
+    ko: 카펠라
+    ku: Kapela
+    la: Capella
+    lb: Capella
+    lt: Kapela
+    mk: Капела
+    my: ကပီလာ
+    nb: Capella
+    nl: Capella
+    nn: Capella
+    oc: Capella
+    pl: Kapella
+    pnb: میمنی
+    pt: Capella
+    pt-br: Capella
+    ro: Capella
+    ru: Капелла
+    sk: Capella
+    sl: Kapela
+    sr: Капела (звезда)
+    sv: Capella
+    sw: Ayuki
+    tg: Айюқ
+    th: ดาวคาเพลลา
+    tr: Kapella
+    tt: Капелла
+    uk: Капелла
+    ur: العیوق
+    uz: Kapella
+    vi: Capella
+    vo: Capella
+    war: Capella (bituon)
+    wuu: 五车二
+    yue: 五車二
+    zh: 五車二
+    zh-hant: 五車二
   place_:
     altitude_:
       ly: 40
@@ -106,11 +177,16 @@ dv_has_:
       velocity: 0.008
     latitude_:
       velocity: -0.42
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 1
+      max: 1
 dv_Zodiac-index: 1
 dv_ZodiacId: 28090
 dv_NextStarId: 27376
 dv_is_:
-  same_as: "[[../../../WikiData/WD~Capella,12970|WD~Capella,12970]]"
+  same_as: '[[../../../WikiData/WD~Capella,12970|WD~Capella,12970]]'
 dv_has_name: Capella
 dv_has_place_altitude_ly: 40
 dv_has_place_longitude: 79.175
@@ -119,9 +195,35 @@ dv_has_place_longitude_velocity: 0.008
 dv_has_place_latitude_velocity: -0.42
 dv_has_value_for_brightness_min: 1
 dv_has_value_for_brightness_max: 1
-dv_is_same_as: "[[../../../WikiData/WD~Capella,12970|WD~Capella,12970]]"
+dv_is_same_as: '[[../../../WikiData/WD~Capella,12970|WD~Capella,12970]]'
+aliases:
+- Alpha Aurigae
+- Ayuki
+- Capella
+- Capella (bituon)
+- Kapela
+- Kapella
+- Αίγα
+- Айюқ
+- Капела
+- Капела (звезда)
+- Капелла
+- Капэля
+- Կապելլա
+- קאפלה
+- العيوق
+- العیوق
+- سروش
+- میمنی
+- ब्रह्महृदय तारा
+- ব্ৰহ্মহৃদয়
+- ดาวคาเพลลา
+- ကပီလာ
+- カペラ (恒星)
+- 五車二
+- 五车二
+- 카펠라
 ---
-
 # [[Capella]] 
 
 SpocWebEntityId: 27235

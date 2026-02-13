@@ -1,31 +1,79 @@
 ---
 location:
-  - -60.83
-  - 140.1
-  - 4.4
+- -60.83
+- 140.1
+- 4.4
 tags:
-  - astro/Star
+- astro/Star
 type: Star
 SpocWebEntityId: 27232
 isDeleted: false
 isReadOnly: false
 confidential: public
 aliases:
-  - Alpha Centauri B
-  - Alpha Centauri
-  - Toliman
+- 2XMM J143933.0-605008
+- Al'fa Centavr
+- Alfa Centauri
+- Alfa Centaŭro
+- Alfa del Centaure
+- Alfa Kentavra
+- Alfa Sentavr
+- Alfaya Kentaurî
+- Alpha Centauri
+- Alpha Centauri B
+- Centaura Alfa
+- Kamailehope
+- Kentauro alfa
+- Ongo tangata
+- Tolimak
+- Toliman
+- Άλφα Κενταύρου
+- Алфа Кентаур
+- Алфа Кентаури
+- Алфа Центавър
+- Альфа Центавра
+- Альфа Цэнтаўра
+- Риҗел Кентавр
+- Таліман
+- Толїманъ
+- Կենտավրոսի ալֆա
+- אלפא קנטאורי
+- آلفا صينطوري
+- آلفا قنطورس
+- ئالفا قەنتۆری
+- الفا سنتوري (الفا قنطورس)
+- الفا سنٹوری
+- الفا سينچوري
+- الفا کنٹوری
+- رجل قنطورس
+- मित्र
+- मित्र तारा
+- আলফা সেন্টরাই
+- মিত্ৰ
+- ਮਿੱਤਰ ਤਾਰਾ
+- ஆல்பா செண்டாரி
+- ಅಲ್ಫಾ ಸೆಂಟಾರಿ
+- ആൽഫാ സെന്റോറി
+- แอลฟาคนครึ่งม้า
+- ཨལ་ཕ་སེན་ཊོར།
+- အယ်လဖာ စင်တောရိ
+- ალფა კენტავრი
+- ケンタウルス座アルファ星
+- 南門二
+- 南门二
+- 센타우루스자리 알파
 has_id_wikidata: Q12176
 different_from: "[[_Standards/WikiData/WD~Sid_Meier's_Alpha_Centauri,372412]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Alpha_Centauri_B,1052548]]"
-  - "[[_Standards/WikiData/WD~Alpha_Centauri_A,2090157]]"
-  - "[[_Standards/WikiData/WD~Proxima_Centauri,14266]]"
-instance_of: "[[_Standards/WikiData/WD~triple_star_system,2088753]]"
-child_astronomical_body: "[[_Standards/WikiData/WD~Alpha_Centauri_A,2090157]]"
-part_of: "[[_Standards/WikiData/WD~G_Cloud,5511885]]"
+- '[[_Standards/WikiData/WD~Alpha_Centauri_B,1052548]]'
+- '[[_Standards/WikiData/WD~Alpha_Centauri_A,2090157]]'
+- '[[_Standards/WikiData/WD~Proxima_Centauri,14266]]'
+instance_of: '[[_Standards/WikiData/WD~triple_star_system,2088753]]'
+child_astronomical_body: '[[_Standards/WikiData/WD~Alpha_Centauri_A,2090157]]'
+part_of: '[[_Standards/WikiData/WD~G_Cloud,5511885]]'
 right_ascension: 219.87383306
 right_ascension_component_of_proper_motion: -3608
-constellation: "[[_Standards/WikiData/WD~Centaurus,8844]]"
+constellation: '[[_Standards/WikiData/WD~Centaurus,8844]]'
 radial_velocity: -25.1
 apparent_magnitude: -0.1
 mass: 1.1
@@ -40,46 +88,145 @@ radius: 1.227
 luminosity: 1.519
 absolute_magnitude: 4.385
 effective_temperature: 5781
-ARICNS: "01151"
+ARICNS: 01151
 spectral_class: K1V
 declination: -60.83222194
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Alpha%20Centauri%20symbol.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Best%20image%20of%20Alpha%20Centauri%20A%20and%20B.jpg
 catalog_code:
-  - "[TSA98] J143948.42-605021.66"
-  - 1ES 1435-60.6
-  - 1RXS J143940.4-605020
-  - 2EUVE J1439-60.8
-  - CCDM J14396-6050AB
-  - Ci 20 875
-  - EUVE J1439-60.8
-  - FK5 538
-  - GC 19728
-  - GCRV 8519
-  - IDS 14328-6025 AB
-  - IRAS 14359-6037
-  - LPM 534
-  - PM 14362-6038
-  - RX J1439.5-6050
-  - SAO 252838
-  - uvby98 100128620
-  - WDS J14396-6050AB
-  - WDS J14403-6051AB
-  - α Cen
+- '[TSA98] J143948.42-605021.66'
+- 1ES 1435-60.6
+- 1RXS J143940.4-605020
+- 2EUVE J1439-60.8
+- CCDM J14396-6050AB
+- Ci 20 875
+- EUVE J1439-60.8
+- FK5 538
+- GC 19728
+- GCRV 8519
+- IDS 14328-6025 AB
+- IRAS 14359-6037
+- LPM 534
+- PM 14362-6038
+- RX J1439.5-6050
+- SAO 252838
+- uvby98 100128620
+- WDS J14396-6050AB
+- WDS J14403-6051AB
+- α Cen
 IPA_transcription: ˈalfa ʦɛnˈtaʊ̯ʀi
-P8189: "987007294758005171"
+P8189: 987007294758005171
 Commons_gallery: Alpha Centauri
 Commons_category: Alpha Centauri
 demonym: Alpha Centaurian
 dv_star-class: G4
 dv_star-class-id: 28191
 dv_has_:
-  value_for_:
-    mass_: {}
-    brightness_:
-      min: -3
-      max: -3
   name: Toliman
+  name_:
+    af: Alpha Centauri
+    an: Alpha Centauri
+    ar: رجل قنطورس
+    ary: آلفا صينطوري
+    as: মিত্ৰ
+    ast: Alfa Centauri
+    az: Tolimak
+    ban: Alpha Centauri
+    bar: Alpha Centauri
+    be: Таліман
+    be-tarask: Альфа Цэнтаўра
+    bg: Алфа Центавър
+    bn: আলফা সেন্টরাই
+    bo: ཨལ་ཕ་སེན་ཊོར།
+    bs: Alpha Centauri
+    ca: Alfa del Centaure
+    ckb: ئالفا قەنتۆری
+    cs: Alfa Centauri
+    cu: Толїманъ
+    cy: Alpha Centauri
+    da: Alfa Centauri
+    de: Alpha Centauri
+    dv: 2XMM J143933.0-605008
+    el: Άλφα Κενταύρου
+    en: Alpha Centauri
+    en-ca: Alpha Centauri
+    en-gb: Alpha Centauri
+    eo: Alfa Centaŭro
+    es: Alfa Centauri
+    et: Alpha Centauri
+    eu: Alpha Centauri
+    ext: 2XMM J143933.0-605008
+    fa: آلفا قنطورس
+    fi: Alfa Centauri
+    fr: Alpha Centauri
+    ga: Alpha Centauri
+    gl: Alpha Centauri
+    haw: Kamailehope
+    he: אלפא קנטאורי
+    hi: मित्र तारा
+    hr: Alpha Centauri
+    hu: Alfa Centauri
+    hy: Կենտավրոսի ալֆա
+    ia: 2XMM J143933.0-605008
+    id: Alpha Centauri
+    ie: 2XMM J143933.0-605008
+    io: Alpha Centauri
+    it: Alfa Centauri
+    ja: ケンタウルス座アルファ星
+    jv: Alpha Centauri
+    ka: ალფა კენტავრი
+    kn: ಅಲ್ಫಾ ಸೆಂಟಾರಿ
+    ko: 센타우루스자리 알파
+    ku: Alfaya Kentaurî
+    la: Alpha Centauri
+    lfn: Alfa Centauri
+    lt: Kentauro alfa
+    lv: Centaura Alfa
+    min: Alpha Centauri
+    mk: Алфа Кентаур
+    ml: ആൽഫാ സെന്റോറി
+    mr: मित्र
+    ms: Alpha Centauri
+    my: အယ်လဖာ စင်တောရိ
+    nb: Alfa Centauri
+    ne: मित्र तारा
+    nl: Alpha Centauri
+    nn: Alfa Centauri
+    oc: Alfa Centauri
+    pa: ਮਿੱਤਰ ਤਾਰਾ
+    pl: Alfa Centauri
+    pnb: الفا کنٹوری
+    ps: الفا سنتوري (الفا قنطورس)
+    pt: Alpha Centauri
+    pt-br: Alpha Centauri
+    qu: Alpha Centauri
+    ro: Alfa Centauri
+    ru: Альфа Центавра
+    scn: Alpha Centauri
+    sd: الفا سينچوري
+    sh: Alpha Centauri
+    sk: Alfa Centauri
+    sl: Alfa Kentavra
+    sr: Алфа Кентаури
+    sv: Alfa Centauri
+    sw: Alpha Centauri
+    ta: ஆல்பா செண்டாரி
+    th: แอลฟาคนครึ่งม้า
+    tl: Alpha Centauri
+    to: Ongo tangata
+    tr: Alfa Centauri
+    tt: Риҗел Кентавр
+    uk: Альфа Центавра
+    ur: الفا سنٹوری
+    uz: Alfa Sentavr
+    vep: Al'fa Centavr
+    vi: Alpha Centauri
+    vo: 2XMM J143933.0-605008
+    war: Alpha Centauri
+    wuu: 南门二
+    yue: 南門二
+    zh: 南門二
+  next_item: '[[Agena]]'
   place_:
     altitude_:
       ly: 4.4
@@ -89,12 +236,16 @@ dv_has_:
       velocity: -0.494
     latitude_:
       velocity: 0.69
-  next_item: "[[Agena]]"
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: -3
+      max: -3
 dv_Zodiac-index: 1
 dv_ZodiacId: 28101
 dv_NextStarId: 27240
 dv_is_:
-  same_as: "[[../../../WikiData/WD~Alpha_Centauri,12176|WD~Alpha_Centauri,12176]]"
+  same_as: '[[../../../WikiData/WD~Alpha_Centauri,12176|WD~Alpha_Centauri,12176]]'
 dv_has_name: Toliman
 dv_has_place_altitude_ly: 4.4
 dv_has_place_longitude: -140.1
@@ -103,10 +254,9 @@ dv_has_place_longitude_velocity: -0.494
 dv_has_place_latitude_velocity: 0.69
 dv_has_value_for_brightness_min: -3
 dv_has_value_for_brightness_max: -3
-dv_is_same_as: "[[../../../WikiData/WD~Alpha_Centauri,12176|WD~Alpha_Centauri,12176]]"
-dv_has_next_item: "[[Agena]]"
+dv_is_same_as: '[[../../../WikiData/WD~Alpha_Centauri,12176|WD~Alpha_Centauri,12176]]'
+dv_has_next_item: '[[Agena]]'
 ---
-
 # [[Toliman]] 
 
 star-class = `= this.dv_star-class` 

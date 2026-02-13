@@ -3,40 +3,40 @@ absolute_magnitude: -2.77
 age_estimated_by_a_dating_method: 37.3
 apparent_magnitude: 0.46
 catalog_code:
-  - "[JE82] 39"
-  - 2MASS J01374284-5714119
-  - 70 Eri
-  - alf Eri
-  - ALS 16724
-  - CPC 20 447
-  - FK5 54
-  - GC 1979
-  - GCRV 916
-  - GSC 08478-01395
-  - HD 10144
-  - HIC 7588
-  - HIP 7588
-  - HR 472
-  - IRAS 01358-5729
-  - JP11 517
-  - N30 335
-  - NSV 15353
-  - PLX 344
-  - PLX 344.00
-  - PPM 331199
-  - ROT 233
-  - SAO 232481
-  - TD1 938
-  - TIC 230981971
-  - TYC 8478-1395-1
-  - UBV 1700
-  - UBV M 8330
-  - uvby98 100010144
-  - WEB 1623
-  - α Eri
+- '[JE82] 39'
+- 2MASS J01374284-5714119
+- 70 Eri
+- alf Eri
+- ALS 16724
+- CPC 20 447
+- FK5 54
+- GC 1979
+- GCRV 916
+- GSC 08478-01395
+- HD 10144
+- HIC 7588
+- HIP 7588
+- HR 472
+- IRAS 01358-5729
+- JP11 517
+- N30 335
+- NSV 15353
+- PLX 344
+- PLX 344.00
+- PPM 331199
+- ROT 233
+- SAO 232481
+- TD1 938
+- TIC 230981971
+- TYC 8478-1395-1
+- UBV 1700
+- UBV M 8330
+- uvby98 100010144
+- WEB 1623
+- α Eri
 Commons_category: Achernar
 confidential: public
-constellation: "[[_Standards/WikiData/WD~Eridanus,10433]]"
+constellation: '[[_Standards/WikiData/WD~Eridanus,10433]]'
 declination: -57.236752806
 declination_component_of_proper_motion: -38.24
 distance_from_Earth: 44.0917107583774
@@ -45,16 +45,16 @@ flattening: 0.75
 has_id_wikidata: Q12183
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Position%20Alpha%20Eri.png
 instance_of:
-  - "[[_Standards/WikiData/WD~rotating_variable_star,2168098]]"
-  - "[[_Standards/WikiData/WD~near_IR_source,67206785]]"
-  - "[[_Standards/WikiData/WD~UV_emission_source,71798788]]"
-  - "[[_Standards/WikiData/WD~binary_star,50053]]"
+- '[[_Standards/WikiData/WD~rotating_variable_star,2168098]]'
+- '[[_Standards/WikiData/WD~near_IR_source,67206785]]'
+- '[[_Standards/WikiData/WD~UV_emission_source,71798788]]'
+- '[[_Standards/WikiData/WD~binary_star,50053]]'
 isDeleted: false
 isReadOnly: false
 location:
-  - -57.24
-  - -24.425
-  - 90
+- -57.24
+- -24.425
+- 90
 luminosity: 1076
 mass: 6.7
 parallax: 23.39
@@ -67,18 +67,81 @@ SpocWebEntityId: 27239
 stellar_rotational_velocity: 260
 surface_gravity: 3980
 tags:
-  - astro/Star
+- astro/Star
 type: Star
-type_of_variable_star: "[[_Standards/WikiData/WD~Lambda_Eridani_variable,4350564]]"
+type_of_variable_star: '[[_Standards/WikiData/WD~Lambda_Eridani_variable,4350564]]'
 dv_star-class: B4
 dv_star-class-id: 28188
 dv_has_:
-  value_for_:
-    mass_: {}
-    brightness_:
-      min: 5
-      max: 5
   name: Achernar
+  name_:
+    af: Achernar
+    ar: السلبار
+    as: অগ্ৰনদ
+    ast: Achernar
+    az: Əxrənnəhr
+    be: Ахернар
+    be-tarask: Ахэрнар
+    bg: Ахернар
+    bn: নদীমুখ
+    bpy: নদীমুখ
+    bs: Ahernar
+    ca: Achernar
+    cs: Achernar
+    da: Achernar
+    de: Achernar
+    dv: Achernar
+    el: Αχερνάρ
+    en: Achernar
+    es: Achernar
+    et: Achernar
+    eu: Achernar
+    fa: آخرالنهر
+    fi: Achernar
+    fr: Achernar
+    ga: Achernar
+    he: אכרנר
+    hi: आकरनार तारा
+    hu: Achernar
+    hy: Ախերնար
+    id: Alpha Eridani
+    it: Achernar
+    ja: アケルナル
+    kk: Ахернар
+    ko: 아케르나르
+    ku: Alfaya Çemî
+    la: Achernar
+    lb: Achernar
+    lt: Achernaras
+    mi: Marere-o-tonga
+    mk: Ахернар
+    ml: അകെർനർ
+    ms: Achernar
+    nb: Achernar
+    nds: Achernar
+    nl: Achernar
+    nn: Achernar
+    oc: Achernar
+    os: Ахернар
+    pl: Achernar
+    pnb: آخرنہر
+    pt: Achernar
+    ro: Achernar
+    ru: Ахернар
+    sk: Achernar
+    sr: Ahernar
+    sv: Achernar
+    tr: Ağız
+    tt: Ахирнәр
+    uk: Ахернар
+    vi: Achernar
+    war: Achernar
+    wuu: 水委一
+    yue: 水委一
+    zh: 水委一
+    zh-cn: 水委一
+    zh-hans: 水委一
+    zh-hant: 水委一
   place_:
     altitude_:
       ly: 90
@@ -88,11 +151,16 @@ dv_has_:
       velocity: 0.013
     latitude_:
       velocity: -0.03
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 5
+      max: 5
 dv_Zodiac-index: 1
 dv_ZodiacId: 28118
 dv_NextStarId: 27615
 dv_is_:
-  same_as: "[[../../../WikiData/WD~Achernar,12183]]"
+  same_as: '[[../../../WikiData/WD~Achernar,12183]]'
 dv_has_name: Achernar
 dv_has_place_altitude_ly: 90
 dv_has_place_longitude: 24.425
@@ -101,9 +169,33 @@ dv_has_place_longitude_velocity: 0.013
 dv_has_place_latitude_velocity: -0.03
 dv_has_value_for_brightness_min: 5
 dv_has_value_for_brightness_max: 5
-dv_is_same_as: "[[../../../WikiData/WD~Achernar,12183]]"
+dv_is_same_as: '[[../../../WikiData/WD~Achernar,12183]]'
+aliases:
+- Achernar
+- Achernaras
+- Ahernar
+- Alfaya Çemî
+- Alpha Eridani
+- Ağız
+- Marere-o-tonga
+- Əxrənnəhr
+- Αχερνάρ
+- Ахернар
+- Ахирнәр
+- Ахэрнар
+- Ախերնար
+- אכרנר
+- آخرالنهر
+- آخرنہر
+- السلبار
+- आकरनार तारा
+- অগ্ৰনদ
+- নদীমুখ
+- അകെർനർ
+- アケルナル
+- 水委一
+- 아케르나르
 ---
-
 # [[Achernar]] 
 
 

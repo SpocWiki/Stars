@@ -1,41 +1,86 @@
 ---
 aliases:
-  - Betelgeuse
-  - Beteigeuze
-  - α Orionis
-  - Alpha Orionis
-  - Alpha Ori
-  - α Ori
+- Afus wa n aɣil
+- Alfa Orionis
+- Alpha Ori
+- Alpha Orionis
+- Beteigeuze
+- Beteijeuze
+- Betelcewza
+- Betelgeize
+- Betelgeizė
+- Betelgeuse
+- Betelgeuze
+- Betelgeyze
+- Betelgez
+- Betelgeza
+- Betelgás
+- Betelĝuzo
+- Bételgeuse
+- Bətəlgeyze
+- Ibuti la Jauza
+- Pūtara
+- Undwendweni
+- α Ori
+- α Orionis
+- Μπετελγκέζ
+- Байтулҷавзо
+- Бетелгез
+- Бетелгейзе
+- Бетельгейзе
+- Бетэльгейзе
+- Бителҗәүза
+- Бэтэльгейзэ
+- Բետելգեյզե
+- ביטלג'וז
+- ابط الجوزاء
+- ابطالجوزا
+- بتلجوز
+- منكب الجوزاء
+- आर्द्रा तारा
+- काक्षी
+- আর্দ্রা
+- আৰ্দ্ৰা
+- ਆਦਰਾ
+- திருவாதிரை
+- തിരുവാതിര
+- ดาวบีเทลจุส
+- ဘီတယ်ဂျူးစ်
+- ბეთელჰეიზე
+- ベテルギウス
+- 参宿四
+- 參宿四
+- 베텔게우스
 has_id_wikidata: Q12124
 location:
-  - 7.41
-  - -88.8
-  - 400
+- 7.41
+- -88.8
+- 400
 tags:
-  - astro/Star
+- astro/Star
 type: Star
-part_of: "[[_Standards/WikiData/WD~Winter_Triangle,505816]]"
+part_of: '[[_Standards/WikiData/WD~Winter_Triangle,505816]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Betelgeuse,14511905]]"
-  - "[[_Standards/WikiData/WD~Betelgeusia,84321655]]"
+- '[[_Standards/WikiData/WD~Betelgeuse,14511905]]'
+- '[[_Standards/WikiData/WD~Betelgeusia,84321655]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20of%20the%20binary%20system%20of%20Betelgeuse%20in%20constellation%20Orion.png
-type_of_variable_star: "[[_Standards/WikiData/WD~SRc_semi_regular_variable_star,66759332]]"
-companion_of: "[[_Standards/WikiData/WD~Siwarha,130502045]]"
+type_of_variable_star: '[[_Standards/WikiData/WD~SRc_semi_regular_variable_star,66759332]]'
+companion_of: '[[_Standards/WikiData/WD~Siwarha,130502045]]'
 right_ascension: 88.792938991
-instance_of: "[[_Standards/WikiData/WD~red_supergiant,5898]]"
-constellation: "[[_Standards/WikiData/WD~Orion,8860]]"
+instance_of: '[[_Standards/WikiData/WD~red_supergiant,5898]]'
+constellation: '[[_Standards/WikiData/WD~Orion,8860]]'
 absolute_magnitude: -5.14
 metallicity: -0.21
 age_estimated_by_a_dating_method: 10000000
 stellar_rotational_velocity: 5
 luminosity: 60000
 mass:
-  - 14
-  - 17.8
+- 14
+- 17.8
 surface_gravity: 2.7
 apparent_magnitude: 0.42
 radius: 640
@@ -46,45 +91,45 @@ parallax: 6.55
 radial_velocity: 21.91
 right_ascension_component_of_proper_motion: 27.54
 effective_temperature: 3654
-OmegaWiki_Defined_Meaning: "857787"
+OmegaWiki_Defined_Meaning: 857787
 catalog_code:
-  - "[LFO93] 0552+07"
-  - 2MASS J05551028+0724255
-  - 58 Ori
-  - AAVSO 0549+07
-  - ADS 4506 AP
-  - AG+07 681
-  - alf Ori
-  - BD+07 1055
-  - CCDM J05552+0724AP
-  - FK5 224
-  - GC 7451
-  - GCRV 3679
-  - GSC 00129-01873
-  - HD 39801
-  - HIC 27989
-  - HIP 27989
-  - HR 2061
-  - IRAS 05524+0723
-  - IRC +10100
-  - JP11 1282
-  - N30 1266
-  - PLX 1362
-  - PLX 1362.00
-  - PMC 90-93 162
-  - PPM 149643
-  - RAFGL 836
-  - SAO 113271
-  - TD1 5587
-  - TIC 269273552
-  - TYC 129-1873-1
-  - UBV 21314
-  - WDS J05552+0724A
-  - WDS J05552+0724Aa,Ab
-  - WDS J05552+0724Aa,Ac
-  - WEB 5485
-  - YZ 7 2503
-  - α Ori
+- '[LFO93] 0552+07'
+- 2MASS J05551028+0724255
+- 58 Ori
+- AAVSO 0549+07
+- ADS 4506 AP
+- AG+07 681
+- alf Ori
+- BD+07 1055
+- CCDM J05552+0724AP
+- FK5 224
+- GC 7451
+- GCRV 3679
+- GSC 00129-01873
+- HD 39801
+- HIC 27989
+- HIP 27989
+- HR 2061
+- IRAS 05524+0723
+- IRC +10100
+- JP11 1282
+- N30 1266
+- PLX 1362
+- PLX 1362.00
+- PMC 90-93 162
+- PPM 149643
+- RAFGL 836
+- SAO 113271
+- TD1 5587
+- TIC 269273552
+- TYC 129-1873-1
+- UBV 21314
+- WDS J05552+0724A
+- WDS J05552+0724Aa,Ab
+- WDS J05552+0724Aa,Ac
+- WEB 5485
+- YZ 7 2503
+- α Ori
 Commons_gallery: Betelgeuse
 Commons_category: Betelgeuse
 spectral_class: M1-M2Ia-Iab
@@ -92,12 +137,104 @@ declination: 7.407063995
 dv_star-class: M2
 dv_star-class-id: 28193
 dv_has_:
-  value_for_:
-    mass_: {}
-    brightness_:
-      min: 4
-      max: 13
   name: Beteigeuze
+  name_:
+    af: Betelgeuse
+    ar: منكب الجوزاء
+    as: আৰ্দ্ৰা
+    ast: Betelgeuse
+    az: Bətəlgeyze
+    be: Бетэльгейзе
+    be-tarask: Бэтэльгейзэ
+    bg: Бетелгейзе
+    bn: আর্দ্রা
+    br: Betelgeuse
+    bs: Betelgez
+    ca: Betelgeuse
+    cs: Betelgeuze
+    cy: Betelgeuse
+    da: Betelgeuse
+    de: Beteigeuze
+    de-ch: Beteigeuze
+    el: Μπετελγκέζ
+    en: Betelgeuse
+    en-ca: Betelgeuse
+    en-gb: Betelgeuse
+    eo: Betelĝuzo
+    es: Betelgeuse
+    et: Betelgeuse
+    eu: Alfa Orionis
+    fa: ابطالجوزا
+    fi: Betelgeuze
+    fr: Bételgeuse
+    ga: Betelgeuse
+    gl: Alpha Orionis
+    he: ביטלג'וז
+    hi: आर्द्रा तारा
+    hr: Betelgeuse
+    hu: Betelgeuze
+    hy: Բետելգեյզե
+    id: Betelgeuse
+    io: Betelgeuse
+    is: Betelgás
+    it: Betelgeuse
+    ja: ベテルギウス
+    jv: Betelgeuse
+    ka: ბეთელჰეიზე
+    kab: Afus wa n aɣil
+    ko: 베텔게우스
+    ksh: Beteijeuze
+    ku: Betelcewza
+    la: Alpha Orionis
+    lb: Betelgeuse
+    li: Betelgeuse
+    lt: Betelgeizė
+    lv: Betelgeize
+    lzh: 參宿四
+    mi: Pūtara
+    mk: Бетелгез
+    ml: തിരുവാതിര
+    mr: काक्षी
+    ms: Betelgeuse
+    my: ဘီတယ်ဂျူးစ်
+    na: Betelgeuse
+    nb: Betelgeuse
+    nds: Beteigeuze
+    nl: Betelgeuze
+    nn: Betelgeuse
+    oc: Betelgeuse
+    om: Betelgeuse
+    os: Бетельгейзе
+    pa: ਆਦਰਾ
+    pl: Betelgeza
+    pnb: بتلجوز
+    pt: Betelgeuse
+    pt-br: Betelgeuse
+    ro: Betelgeuse
+    ru: Бетельгейзе
+    sah: Бетельгейзе
+    scn: Betelgeuse
+    sh: Betelgeuse
+    sk: Betelgeuze
+    sl: Betelgeza
+    sr: Бетелгез
+    sv: Betelgeuse
+    sw: Ibuti la Jauza
+    ta: திருவாதிரை
+    tg: Байтулҷавзо
+    th: ดาวบีเทลจุส
+    tr: Betelgeuse
+    tt: Бителҗәүза
+    uk: Бетельгейзе
+    ur: ابط الجوزاء
+    uz: Betelgeyze
+    vi: Betelgeuse
+    vls: Betelgeuze
+    war: Betelgeuse
+    wuu: 参宿四
+    yue: 參宿四
+    zh: 參宿四
+    zu: Undwendweni
   place_:
     altitude_:
       ly: 400
@@ -107,11 +244,16 @@ dv_has_:
       velocity: 0.002
     latitude_:
       velocity: 0.01
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 4
+      max: 13
 dv_Zodiac-index: 1
 dv_ZodiacId: 28142
 dv_NextStarId: 27254
 dv_is_:
-  same_as: "[[../../../WikiData/WD~Betelgeuse,12124|WD~Betelgeuse,12124]]"
+  same_as: '[[../../../WikiData/WD~Betelgeuse,12124|WD~Betelgeuse,12124]]'
 dv_has_name: Beteigeuze
 dv_has_place_altitude_ly: 400
 dv_has_place_longitude: 88.8
@@ -120,7 +262,7 @@ dv_has_place_longitude_velocity: 0.002
 dv_has_place_latitude_velocity: 0.01
 dv_has_value_for_brightness_min: 4
 dv_has_value_for_brightness_max: 13
-dv_is_same_as: "[[../../../WikiData/WD~Betelgeuse,12124|WD~Betelgeuse,12124]]"
+dv_is_same_as: '[[../../../WikiData/WD~Betelgeuse,12124|WD~Betelgeuse,12124]]'
 ---
 # [[Beteigeuze]] 
 

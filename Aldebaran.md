@@ -1,21 +1,99 @@
 ---
 location:
-  - 16.51
-  - -68.975
-  - 60
+- 16.51
+- -68.975
+- 60
 tags:
-  - astro/Star
+- astro/Star
 type: Star
 has_id_wikidata: Q88540091
 dv_star-class: K5
 dv_star-class-id: 28192
 dv_has_:
-  value_for_:
-    mass_: {}
-    brightness_:
-      min: 9
-      max: 9
   name: Aldebaran
+  name_:
+    af: Aldebaran
+    ar: الدبران (نجم)
+    arc: ܥܝܢ ܬܘܪܐ
+    ast: Aldebarán
+    az: Aldebaran
+    azb: باغیرساقان
+    be: Альдэбаран
+    be-tarask: Альдэбаран
+    bg: Алдебаран
+    bn: রোহিণী
+    br: Aldebaran
+    bs: Aldebaran
+    ca: Aldebaran
+    cs: Aldebaran
+    cy: Aldebaran
+    da: Aldebaran
+    de: Aldebaran
+    el: Αλντεμπαράν
+    en: Aldebaran
+    eo: Aldebarano
+    es: Aldebarán
+    et: Aldebaran
+    eu: Aldebaran
+    fa: دبران
+    fi: Aldebaran
+    fr: Aldébaran
+    fy: Aldebaran
+    gl: Alpha Tauri
+    he: אלדברן
+    hi: रोहिणी तारा
+    hr: Aldebaran
+    hu: Aldebaran
+    hy: Ալդեբարան
+    id: Aldebaran
+    io: Aldebaran
+    is: Aldebaran
+    it: Aldebaran
+    ja: アルデバラン
+    jv: Aldebaran
+    kk: Альдебаран
+    kn: ರೋಹಿಣಿ (ನಕ್ಷತ್ರ)
+    ko: 알데바란
+    ku: Deberan
+    la: Aldebaran
+    lb: Aldebaran (Stär)
+    lt: Aldebaranas
+    lv: Aldebarans
+    mi: Taumata-kuku
+    mk: Алдебаран
+    ml: ബ്രഹ്മർഷി നക്ഷത്രം
+    ms: Aldebaran
+    my: အာဒီဘရန်
+    nb: Aldebaran
+    nl: Aldebaran (ster)
+    nn: Aldebaran
+    oc: Aldebaran
+    os: Альдебаран
+    pa: ਰੋਹੀਣੀ ਤਾਰਾ
+    pl: Aldebaran
+    pnb: الدبران
+    pt: Aldebarã
+    ro: Aldebaran
+    ru: Альдебаран
+    sco: Aldebaran
+    sh: Aldebaran
+    sk: Aldebaran
+    sl: Aldebaran
+    sr: Алдебаран
+    sv: Aldebaran
+    sw: Dabarani
+    ta: ரோகிணி (நட்சத்திரம்)
+    th: ดาวโรหิณี
+    tr: Aldebaran
+    tt: Әлдәбәран
+    uk: Альдебаран
+    ur: الدبران
+    uz: Aldebaran
+    vi: Aldebaran
+    war: Aldebaran
+    wuu: 毕宿五
+    yue: 畢宿五雙星
+    zh: 畢宿五
   place_:
     altitude_:
       ly: 60
@@ -25,11 +103,16 @@ dv_has_:
       velocity: 0.005
     latitude_:
       velocity: -0.19
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 9
+      max: 9
 dv_Zodiac-index: 1
 dv_ZodiacId: 28160
 dv_NextStarId: 27488
 dv_is_:
-  same_as: "[[../../../WikiData/WD~Aldebaran,88540091]]"
+  same_as: '[[../../../WikiData/WD~Aldebaran,88540091]]'
 dv_has_name: Aldebaran
 dv_has_place_altitude_ly: 60
 dv_has_place_longitude: 68.975
@@ -38,9 +121,47 @@ dv_has_place_longitude_velocity: 0.005
 dv_has_place_latitude_velocity: -0.19
 dv_has_value_for_brightness_min: 9
 dv_has_value_for_brightness_max: 9
-dv_is_same_as: "[[../../../WikiData/WD~Aldebaran,88540091]]"
+dv_is_same_as: '[[../../../WikiData/WD~Aldebaran,88540091]]'
+aliases:
+- Aldebaran
+- Aldebaran (ster)
+- Aldebaran (Stär)
+- Aldebaranas
+- Aldebarano
+- Aldebarans
+- Aldebarán
+- Aldebarã
+- Aldébaran
+- Alpha Tauri
+- Dabarani
+- Deberan
+- Taumata-kuku
+- Αλντεμπαράν
+- Алдебаран
+- Альдебаран
+- Альдэбаран
+- Әлдәбәран
+- Ալդեբարան
+- אלדברן
+- الدبران
+- الدبران (نجم)
+- باغیرساقان
+- دبران
+- ܥܝܢ ܬܘܪܐ
+- रोहिणी तारा
+- রোহিণী
+- ਰੋਹੀਣੀ ਤਾਰਾ
+- ரோகிணி (நட்சத்திரம்)
+- ರೋಹಿಣಿ (ನಕ್ಷತ್ರ)
+- ബ്രഹ്മർഷി നക്ഷത്രം
+- ดาวโรหิณี
+- အာဒီဘရန်
+- アルデバラン
+- 毕宿五
+- 畢宿五
+- 畢宿五雙星
+- 알데바란
 ---
-
 # [[Aldebaran]] 
 
 SpocWebEntityId: 27243

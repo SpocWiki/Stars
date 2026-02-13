@@ -3,37 +3,61 @@ confidential: public
 isDeleted: false
 isReadOnly: false
 location:
-  - -60.37
-  - 149.05
-  - 300
+- -60.37
+- 149.05
+- 300
 SpocWebEntityId: 27240
 tags:
-  - astro/Star
+- astro/Star
 type: Star
 aliases:
-  - Agena
-  - Hadar
-  - β Centauri
-  - Beta Centauri
+- Agena
+- Beta Centauri
+- Beta de Centaŭro
+- Beta Kentauri
+- Béta Centauri
+- Centaura Beta
+- Hadar
+- Hedar
+- Stjerna Agena
+- β Centauri
+- Βeta Sentavr
+- Χαντάρ
+- Бэта Цэнтаўра
+- Хадар
+- Ходор
+- Хәдар
+- Կենտավրոսի բետա
+- הדר
+- الوزن
+- بتا قنطورس
+- ہڈار
+- मित्रक तारा
+- ਮਿਤਰਕ ਤਾਰਾ
+- ဘီတာ စင်တောရိ
+- ハダル
+- 馬腹一
+- 马腹一
+- 하다르
 has_id_wikidata: Q13175
-type_of_variable_star: "[[_Standards/WikiData/WD~Beta_Cephei_variable,764463]]"
+type_of_variable_star: '[[_Standards/WikiData/WD~Beta_Cephei_variable,764463]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~multiple_star,878367]]"
-  - "[[_Standards/WikiData/WD~navigational_star,1547772]]"
+- '[[_Standards/WikiData/WD~multiple_star,878367]]'
+- '[[_Standards/WikiData/WD~navigational_star,1547772]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~bet_Cen_A,66476662]]"
-  - "[[_Standards/WikiData/WD~bet_Cen_B,66476663]]"
+- '[[_Standards/WikiData/WD~bet_Cen_A,66476662]]'
+- '[[_Standards/WikiData/WD~bet_Cen_B,66476663]]'
 right_ascension: 210.955855623
 right_ascension_component_of_proper_motion: -33.27
 declination_component_of_proper_motion: -23.16
-constellation: "[[_Standards/WikiData/WD~Centaurus,8844]]"
+constellation: '[[_Standards/WikiData/WD~Centaurus,8844]]'
 absolute_magnitude: -5.42
 distance_from_Earth: 50
 apparent_magnitude: 0.6
 radial_velocity: 5.9
 stellar_rotational_velocity:
-  - 105
-  - 161
+- 105
+- 161
 luminosity: 41700
 radius: 7.07
 parallax: 8.32
@@ -41,50 +65,104 @@ effective_temperature: 26720
 spectral_class: B1III
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Centaurus%20constellation%20map.svg
 catalog_code:
-  - 1RXS J140348.7-602242
-  - 2MASS J14034938-6022226
-  - ALS 14992
-  - bet Cen
-  - CCDM J14038-6022AB
-  - CD-59 5054
-  - CEL 4298
-  - CPC 20.1 4149
-  - CPD-59 5365
-  - EUVE J1403-60.3
-  - FK5 518
-  - GC 18971
-  - GCRV 8251
-  - HD 122451
-  - HIC 68702
-  - HIP 68702
-  - HR 5267
-  - IDS 13568-5953 AB
-  - IRAS 14002-6008
-  - N30 3189
-  - PLX 3198
-  - PLX 3198.00
-  - PPM 360515
-  - ROT 2025
-  - SACS 302
-  - SAO 252582
-  - TD1 17207
-  - TYC 9005-3919-1
-  - UBV 12426
-  - uvby98 100122451 ABV
-  - WDS J14038-6022AB
-  - WEB 12025
-  - β Cen
+- 1RXS J140348.7-602242
+- 2MASS J14034938-6022226
+- ALS 14992
+- bet Cen
+- CCDM J14038-6022AB
+- CD-59 5054
+- CEL 4298
+- CPC 20.1 4149
+- CPD-59 5365
+- EUVE J1403-60.3
+- FK5 518
+- GC 18971
+- GCRV 8251
+- HD 122451
+- HIC 68702
+- HIP 68702
+- HR 5267
+- IDS 13568-5953 AB
+- IRAS 14002-6008
+- N30 3189
+- PLX 3198
+- PLX 3198.00
+- PPM 360515
+- ROT 2025
+- SACS 302
+- SAO 252582
+- TD1 17207
+- TYC 9005-3919-1
+- UBV 12426
+- uvby98 100122451 ABV
+- WDS J14038-6022AB
+- WEB 12025
+- β Cen
 Commons_category: Beta Centauri
 declination: -60.373035162
 dv_star-class: B1
 dv_star-class-id: 28188
 dv_has_:
-  value_for_:
-    mass_: {}
-    brightness_:
-      min: 6
-      max: 6
   name: Agena
+  name_:
+    af: Beta Centauri
+    ar: الوزن
+    ast: Hadar
+    az: Βeta Sentavr
+    ban: Beta Centauri
+    be: Хадар
+    be-tarask: Бэта Цэнтаўра
+    bs: Beta Centauri
+    ca: Hadar
+    cs: Hadar
+    da: Beta Centauri
+    de: Beta Centauri
+    el: Χαντάρ
+    en: Beta Centauri
+    eo: Beta de Centaŭro
+    es: Hadar
+    et: Beta Centauri
+    eu: Hadar
+    fa: بتا قنطورس
+    fi: Beta Centauri
+    fr: Beta Centauri
+    gl: Beta Centauri
+    he: הדר
+    hi: मित्रक तारा
+    hu: Béta Centauri
+    hy: Կենտավրոսի բետա
+    id: Beta Centauri
+    it: Hadar
+    ja: ハダル
+    ko: 하다르
+    ku: Hedar
+    la: Beta Centauri
+    lt: Agena
+    lv: Centaura Beta
+    my: ဘီတာ စင်တောရိ
+    nb: Hadar
+    nl: Agena
+    nn: Stjerna Agena
+    oc: Beta Centauri
+    pa: ਮਿਤਰਕ ਤਾਰਾ
+    pl: Hadar
+    pnb: ہڈار
+    pt: Beta Centauri
+    ro: Beta Centauri
+    ru: Хадар
+    sk: Hadar
+    sr: Beta Kentauri
+    sv: Beta Centauri
+    tr: Beta Centauri
+    tt: Хәдар
+    uk: Ходор
+    uz: Hadar
+    vi: Beta Centauri
+    war: Beta Centauri
+    wuu: 马腹一
+    yue: 馬腹一
+    zh: 馬腹一
+    zh-hant: 馬腹一
   place_:
     altitude_:
       ly: 300
@@ -95,12 +173,17 @@ dv_has_:
     latitude_:
       velocity: -0.02
   previous_:
-    star: "[[Toliman]]"
+    star: '[[Toliman]]'
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 6
+      max: 6
 dv_Zodiac-index: 2
 dv_ZodiacId: 28101
 dv_NextStarId: 27308
 dv_is_:
-  same_as: "[[../../../WikiData/WD~Beta_Centauri,13175|WD~Beta_Centauri,13175]]"
+  same_as: '[[../../../WikiData/WD~Beta_Centauri,13175|WD~Beta_Centauri,13175]]'
 dv_has_name: Agena
 dv_has_place_altitude_ly: 300
 dv_has_place_longitude: -149.05
@@ -109,10 +192,9 @@ dv_has_place_longitude_velocity: -0.003
 dv_has_place_latitude_velocity: -0.02
 dv_has_value_for_brightness_min: 6
 dv_has_value_for_brightness_max: 6
-dv_is_same_as: "[[../../../WikiData/WD~Beta_Centauri,13175|WD~Beta_Centauri,13175]]"
-dv_has_previous_star: "[[Toliman]]"
+dv_is_same_as: '[[../../../WikiData/WD~Beta_Centauri,13175|WD~Beta_Centauri,13175]]'
+dv_has_previous_star: '[[Toliman]]'
 ---
-
 # [[Agena]] 
 
 

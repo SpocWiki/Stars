@@ -1,28 +1,28 @@
 ---
 location:
-  - -52.7
-  - -96
-  - 150
+- -52.7
+- -96
+- 150
 tags:
-  - astro/Star
+- astro/Star
 type: Star
 has_id_wikidata: Q12189
 present_in_work:
-  - "[[_Standards/WikiData/WD~Dune,190192]]"
-  - "[[_Standards/WikiData/WD~Birth_of_the_Federation,1474668]]"
-  - "[[_Standards/WikiData/WD~Canopus_in_Argos,3312043]]"
-  - "[[_Standards/WikiData/WD~Star_Trek_The_Original_Series_Core_Game_Book,115519946]]"
+- '[[_Standards/WikiData/WD~Dune,190192]]'
+- '[[_Standards/WikiData/WD~Birth_of_the_Federation,1474668]]'
+- '[[_Standards/WikiData/WD~Canopus_in_Argos,3312043]]'
+- '[[_Standards/WikiData/WD~Star_Trek_The_Original_Series_Core_Game_Book,115519946]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Atutahi,4818816]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Atutahi,4818816]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~near_IR_source,67206785]]"
-  - "[[_Standards/WikiData/WD~star,523]]"
+- '[[_Standards/WikiData/WD~near_IR_source,67206785]]'
+- '[[_Standards/WikiData/WD~star,523]]'
 declination: -52.695661384
 right_ascension: 95.987957829
-constellation: "[[_Standards/WikiData/WD~Carina,10470]]"
+constellation: '[[_Standards/WikiData/WD~Carina,10470]]'
 absolute_magnitude: -5.71
 apparent_magnitude: -0.74
 metallicity: -0.06
@@ -39,47 +39,129 @@ spectral_class: A9II
 Commons_category: Canopus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Canopus.jpg
 catalog_code:
-  - 1ES 0622-52.6
-  - 1RXS J062357.2-524139
-  - 2EUVE J0624-52.6
-  - 2MASS J06235709-5241441
-  - CEL 1228
-  - CPC 19 2125
-  - EUVE J0624-52.6
-  - EXSS 0622.7-5240
-  - FK5 245
-  - GC 8302
-  - GCRV 4091
-  - HD 45348
-  - HIC 30438
-  - HIP 30438
-  - HR 2326
-  - IRAS 06228-5240
-  - JP11 1384
-  - N30 1391
-  - PLX 1497
-  - PLX 1497.00
-  - PPM 335149
-  - ROT 1039
-  - SAO 234480
-  - SRS 30245
-  - TD1 7115
-  - TIC 255559489
-  - TYC 8534-2277-1
-  - UBV 6431
-  - UBV M 12094
-  - uvby98 100045348
-  - WEB 6060
-  - α Car
+- 1ES 0622-52.6
+- 1RXS J062357.2-524139
+- 2EUVE J0624-52.6
+- 2MASS J06235709-5241441
+- CEL 1228
+- CPC 19 2125
+- EUVE J0624-52.6
+- EXSS 0622.7-5240
+- FK5 245
+- GC 8302
+- GCRV 4091
+- HD 45348
+- HIC 30438
+- HIP 30438
+- HR 2326
+- IRAS 06228-5240
+- JP11 1384
+- N30 1391
+- PLX 1497
+- PLX 1497.00
+- PPM 335149
+- ROT 1039
+- SAO 234480
+- SRS 30245
+- TD1 7115
+- TIC 255559489
+- TYC 8534-2277-1
+- UBV 6431
+- UBV M 12094
+- uvby98 100045348
+- WEB 6060
+- α Car
 dv_star-class: F0
 dv_star-class-id: 28190
 dv_has_:
-  value_for_:
-    mass_: {}
-    brightness_:
-      min: -7
-      max: -7
   name: Canopus
+  name_:
+    af: Canopus
+    ar: سهيل
+    as: অগস্ত্য
+    ast: Canopus
+    az: Kanopus
+    azb: قویروق دوغان
+    be: Канопус
+    be-tarask: Канопус
+    bg: Канопус
+    bs: Alpha Carinae
+    ca: Canopus
+    cs: Canopus
+    cu: Канопоусъ
+    cy: Canopus
+    da: Canopus
+    de: Canopus
+    dv: Canopus
+    el: Κάνωπος
+    en: Canopus
+    eo: Alfo Karena
+    es: Canopus
+    et: Canopus
+    eu: Canopus
+    fa: سهیل
+    fi: Canopus
+    fr: Canopus
+    ga: Canopus
+    gl: Canopus
+    grc: Κάνωπος
+    he: קאנופוס
+    hi: अगस्ति तारा
+    hr: Canopus
+    hu: Canopus
+    hy: Կանոպուս
+    id: Canopus
+    it: Canopo
+    ja: カノープス
+    kk: Канопус
+    ko: 카노푸스
+    ku: Suheyl
+    la: Canopus
+    lb: Canopus
+    lt: Kanopus
+    lv: Kanopuss
+    lzh: 老人
+    mk: Канопус
+    ml: കനോപ്പസ്
+    mr: अगस्ती
+    ms: Canopus
+    mul: Canopus
+    my: ကနိုးပတ်
+    nb: Canopus
+    nds: Canopus
+    ne: अगस्ति तारा
+    nl: Canopus
+    nn: Canopus
+    oc: Canopus
+    pa: ਅਗਸਤਿ ਤਾਰਾ
+    pl: Kanopus
+    pnb: کینوپس
+    pt: Canopus
+    ro: Canopus
+    ru: Канопус
+    sco: Canopus
+    sd: سهيل تارو
+    sh: Canopus
+    sk: Canopus
+    sl: Kanop
+    sn: Rinyanga
+    sr: Канопус
+    sv: Canopus
+    sw: Suheli
+    ta: அகத்திய விண்மீன்
+    te: కానోపస్ నక్షత్రం
+    th: ดาวคาโนปัส
+    tr: Canopus
+    tt: Канопус
+    uk: Канопус
+    ur: کینوپس
+    uz: Kanopus
+    vi: Canopus
+    war: Canopus
+    wuu: 老人星
+    yue: 老人星
+    zh: 老人星
+    zu: INkwenkwezi
   place_:
     altitude_:
       ly: 150
@@ -89,11 +171,16 @@ dv_has_:
       velocity: 0.003
     latitude_:
       velocity: 0.02
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: -7
+      max: -7
 dv_Zodiac-index: 1
 dv_ZodiacId: 28099
 dv_NextStarId: 27271
 dv_is_:
-  same_as: "[[../../../WikiData/WD~Canopus,12189|WD~Canopus,12189]]"
+  same_as: '[[../../../WikiData/WD~Canopus,12189|WD~Canopus,12189]]'
 dv_has_name: Canopus
 dv_has_place_altitude_ly: 150
 dv_has_place_longitude: 96
@@ -102,9 +189,43 @@ dv_has_place_longitude_velocity: 0.003
 dv_has_place_latitude_velocity: 0.02
 dv_has_value_for_brightness_min: -7
 dv_has_value_for_brightness_max: -7
-dv_is_same_as: "[[../../../WikiData/WD~Canopus,12189|WD~Canopus,12189]]"
+dv_is_same_as: '[[../../../WikiData/WD~Canopus,12189|WD~Canopus,12189]]'
+aliases:
+- Alfo Karena
+- Alpha Carinae
+- Canopo
+- Canopus
+- INkwenkwezi
+- Kanop
+- Kanopus
+- Kanopuss
+- Rinyanga
+- Suheli
+- Suheyl
+- Κάνωπος
+- Канопоусъ
+- Канопус
+- Կանոպուս
+- קאנופוס
+- سهيل
+- سهيل تارو
+- سهیل
+- قویروق دوغان
+- کینوپس
+- अगस्ति तारा
+- अगस्ती
+- অগস্ত্য
+- ਅਗਸਤਿ ਤਾਰਾ
+- அகத்திய விண்மீன்
+- కానోపస్ నక్షత్రం
+- കനോപ്പസ്
+- ดาวคาโนปัส
+- ကနိုးပတ်
+- カノープス
+- 老人
+- 老人星
+- 카노푸스
 ---
-
 # [[Canopus]] 
 
 SpocWebEntityId: 27231

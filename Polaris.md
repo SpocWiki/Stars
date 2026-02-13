@@ -1,81 +1,163 @@
 ---
 aliases:
-  - North Star
-  - α Ursae Minoris
-  - Alpha Ursae Minoris
+- alfa Ursae Minoris
+- Alpha Ursae Minoris
+- An Réalta Thuaidh
+- Astareo çhılek
+- boahjenásti
+- botnosko glimmos
+- Estel del Nord
+- Estrella Polar
+- Hōkūpa'a
+- Iparrizarra
+- Kewkbet is-Safar
+- Kintan'ny tendron-tany avaratra
+- Kutubu
+- Kutup Yıldızı
+- Ndaundeiqvuengz
+- Norda Stelo
+- Nordowô gwiôzda
+- Nordstjernen
+- North Star
+- pohjantähti
+- Polaris
+- polarna gwězda
+- Polarstern
+- Polarstjerna
+- Polarstär
+- Polstjärnan
+- Polárka
+- Polārzvaigzne
+- Puulstäär
+- Pólstjarnan
+- põhjanael
+- Qütb ulduzu
+- Sarkcsillag
+- Seren y Gogledd
+- Severnica
+- Severnjača
+- Sjevernjača
+- Stella tramuntana
+- Steredenn an Norzh
+- Stèila polar
+- Temir qoziq
+- Yacatēuctli
+- Šiaurinė
+- α Ursae Minoris
+- Πολικός Αστέρας
+- Алтангадас
+- Алтын казык
+- Арвы цæджындз
+- Кава Меҥге
+- Къилбаседа (седа)
+- Паўночная зорка
+- Палярная зорка
+- Поляр çăлтăрĕ
+- Полярна звезда
+- Полярна зоря
+- Полярная звезда
+- Северњача
+- Северница
+- Темірқазық
+- Тимерказык
+- Уйшоркизили
+- Хотугу сулус
+- Чуввесь та̄ссьт
+- Юрйыв кодзув
+- Բևեռային աստղ
+- כוכב הצפון
+- الجدي
+- جدی
+- قطب تارو
+- قطبی ستارہ
+- ध्रुव
+- पोलारिस
+- போலாரிசு
+- പൊളാരിസ്
+- පොලාරිස්
+- ดาวเหนือ
+- ဓူဝံကြယ်
+- პოლარისი
+- ᠠᠪᡴᠠᡳ ᡨᡝᠨ ᡳ ᡠᠰᡳᡥᠠ
+- ᱵᱷᱩᱨᱠᱟᱹ ᱤᱯᱤᱞ
+- ポラリス
+- 勾陈一
+- 勾陳一
+- 北极星
+- 폴라리스
 has_id_wikidata: Q12980
 location:
-  - 89.26
-  - -37.95
-  - 800
+- 89.26
+- -37.95
+- 800
 tags:
-  - astro/Star
+- astro/Star
 type: Star
 catalog_code:
-  - WDS J02318+8916Aa,Ab
-  - WEB 2438
-  - α UMi
-  - 1 UMi
-  - 2MASS J02314822+8915503
-  - AAVSO 0122+88
-  - ADS 1477 A
-  - ADS 1477 AP
-  - AG+89 4
-  - alf UMi
-  - BD+88 8
-  - CCDM J02319+8915A
-  - FK5 907
-  - GC 2243
-  - GCRV 1037
-  - GSC 04628-00237
-  - HD 8890
-  - HIC 11767
-  - HIP 11767
-  - HR 424
-  - IDS 01226+8846 A
-  - IRAS 01490+8901
-  - JP11 498
-  - N30 381
-  - PLX 299
-  - PLX 299.00
-  - PMC 90-93 640
-  - PPM 431
-  - ROT 3491
-  - SAO 308
-  - SBC7 51
-  - SBC9 76
-  - TD1 835
-  - TIC 303256075
-  - TYC 4628-237-1
-  - UBV 21589
-  - UBV M 8201
-  - WDS J02318+8916A
+- WDS J02318+8916Aa,Ab
+- WEB 2438
+- α UMi
+- 1 UMi
+- 2MASS J02314822+8915503
+- AAVSO 0122+88
+- ADS 1477 A
+- ADS 1477 AP
+- AG+89 4
+- alf UMi
+- BD+88 8
+- CCDM J02319+8915A
+- FK5 907
+- GC 2243
+- GCRV 1037
+- GSC 04628-00237
+- HD 8890
+- HIC 11767
+- HIP 11767
+- HR 424
+- IDS 01226+8846 A
+- IRAS 01490+8901
+- JP11 498
+- N30 381
+- PLX 299
+- PLX 299.00
+- PMC 90-93 640
+- PPM 431
+- ROT 3491
+- SAO 308
+- SBC7 51
+- SBC9 76
+- TD1 835
+- TIC 303256075
+- TYC 4628-237-1
+- UBV 21589
+- UBV M 8201
+- WDS J02318+8916A
 native_label: Gwiazda Polarna
 right_ascension: 37.95456067
 declination: 89.26410897
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~pole_star,662656]]"
-  - "[[_Standards/WikiData/WD~F_type_star,995268]]"
-  - "[[_Standards/WikiData/WD~navigational_star,1547772]]"
-  - "[[_Standards/WikiData/WD~triple_star_system,2088753]]"
-  - "[[_Standards/WikiData/WD~classical_Cepheid_variable,10451997]]"
+- '[[_Standards/WikiData/WD~pole_star,662656]]'
+- '[[_Standards/WikiData/WD~F_type_star,995268]]'
+- '[[_Standards/WikiData/WD~navigational_star,1547772]]'
+- '[[_Standards/WikiData/WD~triple_star_system,2088753]]'
+- '[[_Standards/WikiData/WD~classical_Cepheid_variable,10451997]]'
 present_in_work:
-  - "[[_Standards/WikiData/WD~Birth_of_the_Federation,1474668]]"
-  - "[[_Standards/WikiData/WD~Welcome_Back,_Polarisoids,73426397]]"
-  - "[[_Standards/WikiData/WD~Camera_Bugged,73426400]]"
-part_of: "[[_Standards/WikiData/WD~Curved_Array,7254772]]"
-type_of_variable_star: "[[_Standards/WikiData/WD~classical_Cepheid_variable,10451997]]"
+- '[[_Standards/WikiData/WD~Birth_of_the_Federation,1474668]]'
+- '[[_Standards/WikiData/WD~Welcome_Back,_Polarisoids,73426397]]'
+- '[[_Standards/WikiData/WD~Camera_Bugged,73426400]]'
+part_of: '[[_Standards/WikiData/WD~Curved_Array,7254772]]'
+type_of_variable_star: '[[_Standards/WikiData/WD~classical_Cepheid_variable,10451997]]'
 radial_velocity: -20.81
 declination_component_of_proper_motion: -11.85
-constellation: "[[_Standards/WikiData/WD~Ursa_Minor,10478]]"
+constellation: '[[_Standards/WikiData/WD~Ursa_Minor,10478]]'
 absolute_magnitude: -3.64
 radius: 30
 mass: 6
@@ -97,12 +179,116 @@ spectral_class: F7 :IB-II SB,V
 dv_star-class: F8
 dv_star-class-id: 28190
 dv_has_:
-  value_for_:
-    mass_: {}
-    brightness_:
-      min: 20
-      max: 20
   name: Polaris
+  name_:
+    af: Polaris
+    ar: الجدي
+    ast: Polaris
+    az: Qütb ulduzu
+    be: Палярная зорка
+    be-tarask: Паўночная зорка
+    bg: Полярна звезда
+    br: Steredenn an Norzh
+    ca: Estel del Nord
+    ce: Къилбаседа (седа)
+    co: Stella tramuntana
+    cs: Polárka
+    csb: Nordowô gwiôzda
+    cv: Поляр çăлтăрĕ
+    cy: Seren y Gogledd
+    da: Nordstjernen
+    de: Polarstern
+    de-ch: Polarstern
+    diq: Astareo çhılek
+    dsb: polarna gwězda
+    el: Πολικός Αστέρας
+    en: Polaris
+    en-ca: Polaris
+    en-gb: Polaris
+    en-us: Polaris
+    eo: Norda Stelo
+    es: Estrella Polar
+    et: põhjanael
+    eu: Iparrizarra
+    fa: جدی
+    fi: pohjantähti
+    fr: Polaris
+    frr: Puulstäär
+    ga: An Réalta Thuaidh
+    gl: Polaris
+    haw: Hōkūpa'a
+    he: כוכב הצפון
+    hi: पोलारिस
+    hr: Sjevernjača
+    hu: Sarkcsillag
+    hy: Բևեռային աստղ
+    id: Polaris
+    is: Pólstjarnan
+    it: Polaris
+    ja: ポラリス
+    ka: პოლარისი
+    kk: Темірқазық
+    ko: 폴라리스
+    kv: Юрйыв кодзув
+    ky: Алтын казык
+    la: Polaris
+    lb: Polarstär
+    li: Polaris
+    lt: Šiaurinė
+    lv: Polārzvaigzne
+    lzh: 勾陳一
+    mg: Kintan'ny tendron-tany avaratra
+    mhr: Кава Меҥге
+    mk: Северница
+    ml: പൊളാരിസ്
+    mn: Алтангадас
+    mnc: ᠠᠪᡴᠠᡳ ᡨᡝᠨ ᡳ ᡠᠰᡳᡥᠠ
+    mr: ध्रुव
+    ms: Polaris
+    mt: Kewkbet is-Safar
+    my: ဓူဝံကြယ်
+    nah: Yacatēuctli
+    nb: Nordstjernen
+    nl: Polaris
+    nn: Polarstjerna
+    oc: Alpha Ursae Minoris
+    os: Арвы цæджындз
+    pl: alfa Ursae Minoris
+    pms: Stèila polar
+    pt: Polaris
+    pt-br: Polaris
+    rmf: botnosko glimmos
+    ro: Alpha Ursae Minoris
+    ru: Полярная звезда
+    sah: Хотугу сулус
+    sat: ᱵᱷᱩᱨᱠᱟᱹ ᱤᱯᱤᱞ
+    sd: قطب تارو
+    se: boahjenásti
+    sh: Sjevernjača
+    si: පොලාරිස්
+    sjd: Чуввесь та̄ссьт
+    sk: Polárka
+    sl: Severnica
+    sq: Polaris
+    sr: Северњача
+    sr-ec: Северњача
+    sr-el: Severnjača
+    sv: Polstjärnan
+    sw: Kutubu
+    ta: போலாரிசு
+    th: ดาวเหนือ
+    tr: Kutup Yıldızı
+    tt: Тимерказык
+    udm: Уйшоркизили
+    uk: Полярна зоря
+    ur: قطبی ستارہ
+    uz: Temir qoziq
+    vec: Polaris
+    vi: Polaris
+    wuu: 勾陈一
+    yue: 勾陳一
+    za: Ndaundeiqvuengz
+    zh: 北极星
   place_:
     altitude_:
       ly: 800
@@ -112,11 +298,16 @@ dv_has_:
       velocity: 0.232
     latitude_:
       velocity: -0.01
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 20
+      max: 20
 dv_Zodiac-index: 1
 dv_ZodiacId: 28166
 dv_NextStarId: 27907
 dv_is_:
-  same_as: "[[../../../WikiData/WD~Polaris,12980|WD~Polaris,12980]]"
+  same_as: '[[../../../WikiData/WD~Polaris,12980|WD~Polaris,12980]]'
 dv_has_name: Polaris
 dv_has_place_altitude_ly: 800
 dv_has_place_longitude: 37.95
@@ -125,9 +316,8 @@ dv_has_place_longitude_velocity: 0.232
 dv_has_place_latitude_velocity: -0.01
 dv_has_value_for_brightness_min: 20
 dv_has_value_for_brightness_max: 20
-dv_is_same_as: "[[../../../WikiData/WD~Polaris,12980|WD~Polaris,12980]]"
+dv_is_same_as: '[[../../../WikiData/WD~Polaris,12980|WD~Polaris,12980]]'
 ---
-
 # [[Polaris]] 
 
 SpocWebEntityId: 27275

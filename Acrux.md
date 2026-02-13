@@ -4,22 +4,75 @@ has_id_wikidata: Q13102
 isDeleted: false
 isReadOnly: false
 location:
-  - -63.1
-  - 173.35
-  - 400
+- -63.1
+- 173.35
+- 400
 SpocWebEntityId: 27242
 tags:
-  - astro/Star
+- astro/Star
 type: Star
 dv_star-class: B1
 dv_star-class-id: 28188
 dv_has_:
-  value_for_:
-    mass_: {}
-    brightness_:
-      min: 8
-      max: 8
   name: Acrux
+  name_:
+    af: Alpha Crucis
+    ar: نير نعيم
+    ast: Ácrux
+    az: Α Xaç
+    be: Акрукс
+    be-tarask: Акрукс
+    bs: Alpha Crucis
+    ca: Acrux
+    cs: Acrux
+    de: Acrux
+    de-ch: Acrux
+    dv: Acrux
+    el: Άλφα Νοτίου Σταυρού
+    en: Acrux
+    en-ca: Alpha Crucis
+    en-gb: Alpha Crucis
+    es: Ácrux
+    et: Acrux
+    eu: Acrux
+    fa: آلفا صلیب
+    fi: Acrux
+    fr: Acrux
+    he: אקרוקס
+    hi: एक्रक्स तारा
+    hr: Alfa Južnog križa
+    hu: Alfa Crucis
+    hy: Ակրուքս
+    id: Acrux
+    it: Acrux
+    ja: アクルックス
+    ko: 아크룩스
+    ku: Acrux
+    la: Alpha Crucis
+    lb: Acrux
+    lt: Akruksas
+    mk: Акрукс
+    nb: Acrux
+    nl: Acrux
+    nn: Acrux
+    oc: Alpha Crucis
+    pl: Acrux
+    pt: Acrux
+    pt-br: Acrux
+    ru: Акрукс
+    sh: Akruks
+    sk: Acrux
+    sl: Alfa Južnega križa
+    sr: Akruks
+    sv: Acrux
+    tr: Acrux
+    uk: Акрукс
+    uz: Akruks
+    vi: Alpha Crucis
+    war: Alpha Crucis
+    wuu: 十字架二
+    yue: 十字架二
+    zh: 十字架二
   place_:
     altitude_:
       ly: 400
@@ -29,11 +82,16 @@ dv_has_:
       velocity: -0.004
     latitude_:
       velocity: -0.02
+  value_for_:
+    mass_: {}
+    brightness_:
+      min: 8
+      max: 8
 dv_Zodiac-index: 1
 dv_ZodiacId: 28112
 dv_NextStarId: 27256
 dv_is_:
-  same_as: "[[../../../WikiData/WD~Acrux,13102]]"
+  same_as: '[[../../../WikiData/WD~Acrux,13102]]'
 dv_has_name: Acrux
 dv_has_place_altitude_ly: 400
 dv_has_place_longitude: -173.35
@@ -42,9 +100,28 @@ dv_has_place_longitude_velocity: -0.004
 dv_has_place_latitude_velocity: -0.02
 dv_has_value_for_brightness_min: 8
 dv_has_value_for_brightness_max: 8
-dv_is_same_as: "[[../../../WikiData/WD~Acrux,13102]]"
+dv_is_same_as: '[[../../../WikiData/WD~Acrux,13102]]'
+aliases:
+- Acrux
+- Akruks
+- Akruksas
+- Alfa Crucis
+- Alfa Južnega križa
+- Alfa Južnog križa
+- Alpha Crucis
+- Ácrux
+- Άλφα Νοτίου Σταυρού
+- Α Xaç
+- Акрукс
+- Ակրուքս
+- אקרוקס
+- آلفا صلیب
+- نير نعيم
+- एक्रक्स तारा
+- アクルックス
+- 十字架二
+- 아크룩스
 ---
- 
 # [[Acrux]] 
 
 #has_/value_for_/depth_in_meters 
