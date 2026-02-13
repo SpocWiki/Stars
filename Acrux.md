@@ -21,17 +21,17 @@ dv_has_:
     ast: Ácrux
     az: Α Xaç
     be: Акрукс
-    be-tarask: Акрукс
+    be_tarask: Акрукс
     bs: Alpha Crucis
     ca: Acrux
     cs: Acrux
     de: Acrux
-    de-ch: Acrux
+    de_ch: Acrux
     dv: Acrux
     el: Άλφα Νοτίου Σταυρού
     en: Acrux
-    en-ca: Alpha Crucis
-    en-gb: Alpha Crucis
+    en_ca: Alpha Crucis
+    en_gb: Alpha Crucis
     es: Ácrux
     et: Acrux
     eu: Acrux
@@ -58,7 +58,7 @@ dv_has_:
     oc: Alpha Crucis
     pl: Acrux
     pt: Acrux
-    pt-br: Acrux
+    pt_br: Acrux
     ru: Акрукс
     sh: Akruks
     sk: Acrux

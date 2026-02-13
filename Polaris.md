@@ -186,7 +186,7 @@ dv_has_:
     ast: Polaris
     az: Qütb ulduzu
     be: Палярная зорка
-    be-tarask: Паўночная зорка
+    be_tarask: Паўночная зорка
     bg: Полярна звезда
     br: Steredenn an Norzh
     ca: Estel del Nord
@@ -198,13 +198,13 @@ dv_has_:
     cy: Seren y Gogledd
     da: Nordstjernen
     de: Polarstern
-    de-ch: Polarstern
+    de_ch: Polarstern
     diq: Astareo çhılek
     dsb: polarna gwězda
     el: Πολικός Αστέρας
     en: Polaris
-    en-ca: Polaris
-    en-gb: Polaris
+    en_ca: Polaris
+    en_gb: Polaris
     en-us: Polaris
     eo: Norda Stelo
     es: Estrella Polar
@@ -256,7 +256,7 @@ dv_has_:
     pl: alfa Ursae Minoris
     pms: Stèila polar
     pt: Polaris
-    pt-br: Polaris
+    pt_br: Polaris
     rmf: botnosko glimmos
     ro: Alpha Ursae Minoris
     ru: Полярная звезда
@@ -271,8 +271,8 @@ dv_has_:
     sl: Severnica
     sq: Polaris
     sr: Северњача
-    sr-ec: Северњача
-    sr-el: Severnjača
+    sr_ec: Северњача
+    sr_el: Severnjača
     sv: Polstjärnan
     sw: Kutubu
     ta: போலாரிசு

@@ -138,7 +138,7 @@ dv_has_:
     az: Rigel
     ba: Ригель
     be: Рыгель
-    be-tarask: Рыгель
+    be_tarask: Рыгель
     bg: Ригел
     bn: বাণরাজা
     br: Rigel

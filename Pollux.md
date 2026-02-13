@@ -144,7 +144,7 @@ dv_has_:
     az: Polluks
     bar: Pollux
     be: Палукс
-    be-tarask: Полюкс
+    be_tarask: Полюкс
     bg: Полукс (звезда)
     br: Pollux
     bs: Polideuk
@@ -199,7 +199,7 @@ dv_has_:
     nap: Pollux
     nb: Pollux
     nds: Pollux
-    nds-nl: Pollux
+    nds_nl: Pollux
     nl: Pollux
     nn: Pollux
     oc: Pollux
@@ -208,7 +208,7 @@ dv_has_:
     pl: Polluks
     pms: Pollux
     pt: Pólux
-    pt-br: Pollux
+    pt_br: Pollux
     rm: Pollux
     ro: Pollux
     ru: Поллукс

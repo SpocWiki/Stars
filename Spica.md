@@ -131,7 +131,7 @@ dv_has_:
     ast: Spica
     az: Spika
     be: Спіка
-    be-tarask: Колас
+    be_tarask: Колас
     bg: Спика
     bn: চিত্রা নক্ষত্র
     bpy: চিত্রা নক্ষত্র

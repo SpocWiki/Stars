@@ -19,7 +19,7 @@ dv_has_:
     az: Aldebaran
     azb: باغیرساقان
     be: Альдэбаран
-    be-tarask: Альдэбаран
+    be_tarask: Альдэбаран
     bg: Алдебаран
     bn: রোহিণী
     br: Aldebaran

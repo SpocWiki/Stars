@@ -146,7 +146,7 @@ dv_has_:
     ast: Procyon
     az: Prosion
     be: Працыён
-    be-tarask: Працыён
+    be_tarask: Працыён
     bg: Процион
     ca: Procyon
     ceb: Procyon

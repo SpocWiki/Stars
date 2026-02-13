@@ -134,7 +134,7 @@ dv_has_:
     ban: Alpha Centauri
     bar: Alpha Centauri
     be: Таліман
-    be-tarask: Альфа Цэнтаўра
+    be_tarask: Альфа Цэнтаўра
     bg: Алфа Центавър
     bn: আলফা সেন্টরাই
     bo: ཨལ་ཕ་སེན་ཊོར།
@@ -149,8 +149,8 @@ dv_has_:
     dv: 2XMM J143933.0-605008
     el: Άλφα Κενταύρου
     en: Alpha Centauri
-    en-ca: Alpha Centauri
-    en-gb: Alpha Centauri
+    en_ca: Alpha Centauri
+    en_gb: Alpha Centauri
     eo: Alfa Centaŭro
     es: Alfa Centauri
     et: Alpha Centauri
@@ -198,7 +198,7 @@ dv_has_:
     pnb: الفا کنٹوری
     ps: الفا سنتوري (الفا قنطورس)
     pt: Alpha Centauri
-    pt-br: Alpha Centauri
+    pt_br: Alpha Centauri
     qu: Alpha Centauri
     ro: Alfa Centauri
     ru: Альфа Центавра

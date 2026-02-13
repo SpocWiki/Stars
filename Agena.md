@@ -111,7 +111,7 @@ dv_has_:
     az: Βeta Sentavr
     ban: Beta Centauri
     be: Хадар
-    be-tarask: Бэта Цэнтаўра
+    be_tarask: Бэта Цэнтаўра
     bs: Beta Centauri
     ca: Hadar
     cs: Hadar
@@ -162,7 +162,7 @@ dv_has_:
     wuu: 马腹一
     yue: 馬腹一
     zh: 馬腹一
-    zh-hant: 馬腹一
+    zh_hant: 馬腹一
   place_:
     altitude_:
       ly: 300

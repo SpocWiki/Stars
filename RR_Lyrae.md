@@ -78,7 +78,7 @@ dv_has_:
   name_:
     ar: آر آر ليراي
     ast: RR Lyrae
-    be-tarask: RR Ліры
+    be_tarask: RR Ліры
     ca: RR de la Lira
     cs: RR Lyrae
     da: RR Lyrae

@@ -152,7 +152,7 @@ dv_has_:
     az: Arktur
     bar: Arcturus
     be: Арктур
-    be-tarask: Арктур
+    be_tarask: Арктур
     bg: Арктур
     ca: Arcturus
     cs: Arcturus
@@ -214,7 +214,7 @@ dv_has_:
     pl: Arktur
     pnb: ارکٹورس
     pt: Arcturo
-    pt-br: Arcturus
+    pt_br: Arcturus
     ro: Arcturus
     ru: Арктур
     sh: Arktur

@@ -152,7 +152,7 @@ dv_has_:
     ast: Vega
     az: Veqa
     be: Вега
-    be-tarask: Вэга
+    be_tarask: Вэга
     bg: Вега
     bn: অভিজিৎ
     bpy: অভিজিৎ
@@ -221,8 +221,8 @@ dv_has_:
     sl: Vega
     sq: Vega
     sr: Вега
-    sr-ec: Вега
-    sr-el: Vega
+    sr_ec: Вега
+    sr_el: Vega
     sv: Vega
     sw: Vega
     ta: சோதி விண்மீன்
@@ -230,7 +230,7 @@ dv_has_:
     th: ดาวเวกา
     tr: Vega
     tt: Вега
-    tt-cyrl: Вега
+    tt_cyrl: Вега
     uk: Вега
     ur: ویگا
     uz: Vega

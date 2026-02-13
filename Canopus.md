@@ -83,7 +83,7 @@ dv_has_:
     az: Kanopus
     azb: قویروق دوغان
     be: Канопус
-    be-tarask: Канопус
+    be_tarask: Канопус
     bg: Канопус
     bs: Alpha Carinae
     ca: Canopus

@@ -81,7 +81,7 @@ dv_has_:
     ast: Achernar
     az: Əxrənnəhr
     be: Ахернар
-    be-tarask: Ахэрнар
+    be_tarask: Ахэрнар
     bg: Ахернар
     bn: নদীমুখ
     bpy: নদীমুখ
@@ -139,9 +139,9 @@ dv_has_:
     wuu: 水委一
     yue: 水委一
     zh: 水委一
-    zh-cn: 水委一
-    zh-hans: 水委一
-    zh-hant: 水委一
+    zh_cn: 水委一
+    zh_hans: 水委一
+    zh_hant: 水委一
   place_:
     altitude_:
       ly: 90

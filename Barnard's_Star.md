@@ -135,11 +135,11 @@ dv_has_:
     cy: Seren Barnard
     da: Barnards stjerne
     de: Barnards Pfeilstern
-    de-ch: Barnards Pfeilstern
+    de_ch: Barnards Pfeilstern
     el: Άστρο του Μπάρναρντ
     en: Barnard's Star
-    en-ca: Barnard's Star
-    en-gb: Barnard's Star
+    en_ca: Barnard's Star
+    en_gb: Barnard's Star
     eo: Barnarda Stelo
     es: Estrella de Barnard
     et: Barnardi täht
@@ -172,7 +172,7 @@ dv_has_:
     os: Барнарды стъалы
     pl: Gwiazda Barnarda
     pt: Estrela de Barnard
-    pt-br: Estrela de Barnard
+    pt_br: Estrela de Barnard
     ro: Steaua lui Barnard
     ru: Звезда Барнарда
     sk: Barnardova hviezda

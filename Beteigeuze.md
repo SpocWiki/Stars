@@ -145,7 +145,7 @@ dv_has_:
     ast: Betelgeuse
     az: Bətəlgeyze
     be: Бетэльгейзе
-    be-tarask: Бэтэльгейзэ
+    be_tarask: Бэтэльгейзэ
     bg: Бетелгейзе
     bn: আর্দ্রা
     br: Betelgeuse
@@ -155,11 +155,11 @@ dv_has_:
     cy: Betelgeuse
     da: Betelgeuse
     de: Beteigeuze
-    de-ch: Beteigeuze
+    de_ch: Beteigeuze
     el: Μπετελγκέζ
     en: Betelgeuse
-    en-ca: Betelgeuse
-    en-gb: Betelgeuse
+    en_ca: Betelgeuse
+    en_gb: Betelgeuse
     eo: Betelĝuzo
     es: Betelgeuse
     et: Betelgeuse
@@ -209,7 +209,7 @@ dv_has_:
     pl: Betelgeza
     pnb: بتلجوز
     pt: Betelgeuse
-    pt-br: Betelgeuse
+    pt_br: Betelgeuse
     ro: Betelgeuse
     ru: Бетельгейзе
     sah: Бетельгейзе

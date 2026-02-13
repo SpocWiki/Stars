@@ -100,7 +100,7 @@ dv_has_:
     ast: Capella
     az: Kapella
     be: Капела
-    be-tarask: Капэля
+    be_tarask: Капэля
     bg: Капела
     bs: Alpha Aurigae
     ca: Capella
@@ -110,7 +110,7 @@ dv_has_:
     de: Capella
     el: Αίγα
     en: Capella
-    en-gb: Capella
+    en_gb: Capella
     eo: Capella
     es: Capella
     et: Kapella
@@ -146,7 +146,7 @@ dv_has_:
     pl: Kapella
     pnb: میمنی
     pt: Capella
-    pt-br: Capella
+    pt_br: Capella
     ro: Capella
     ru: Капелла
     sk: Capella
@@ -167,7 +167,7 @@ dv_has_:
     wuu: 五车二
     yue: 五車二
     zh: 五車二
-    zh-hant: 五車二
+    zh_hant: 五車二
   place_:
     altitude_:
       ly: 40
