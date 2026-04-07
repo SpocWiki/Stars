@@ -101,23 +101,23 @@ catalog_code:
 - TIC 280310048
 - TYC 187-2184-1
 part_of:
-- '[[_Standards/WikiData/WD~Winter_Triangle,505816]]'
-- '[[_Standards/WikiData/WD~Winter_Hexagon,515922]]'
-instance_of: '[[_Standards/WikiData/WD~spectroscopic_binary,1993624]]'
-type_of_variable_star: '[[_Standards/WikiData/WD~rotating_variable_star,2168098]]'
-described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Winter_Triangle,505816|WD~Winter_Triangle,505816]]'
+- '[[_Standards/WikiData/WD~Winter_Hexagon,515922|WD~Winter_Hexagon,515922]]'
+instance_of: '[[_Standards/WikiData/WD~spectroscopic_binary,1993624|WD~spectroscopic_binary,1993624]]'
+type_of_variable_star: '[[_Standards/WikiData/WD~rotating_variable_star,2168098|WD~rotating_variable_star,2168098]]'
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Procyon_A,15881007]]'
-- '[[_Standards/WikiData/WD~Procyon_B,15881009]]'
+- '[[_Standards/WikiData/WD~Procyon_A,15881007|WD~Procyon_A,15881007]]'
+- '[[_Standards/WikiData/WD~Procyon_B,15881009|WD~Procyon_B,15881009]]'
 different_from:
-- '[[_Standards/WikiData/WD~Procyon_A,15881007]]'
-- '[[_Standards/WikiData/WD~Procyon_B,15881009]]'
+- '[[_Standards/WikiData/WD~Procyon_A,15881007|WD~Procyon_A,15881007]]'
+- '[[_Standards/WikiData/WD~Procyon_B,15881009|WD~Procyon_B,15881009]]'
 declination: 5.224987557
 right_ascension: 114.825497908
 radial_velocity: -4.50528
 right_ascension_component_of_proper_motion: -714.59
 declination_component_of_proper_motion: -1036.8
-constellation: '[[_Standards/WikiData/WD~Canis_Minor,9305]]'
+constellation: '[[_Standards/WikiData/WD~Canis_Minor,9305|WD~Canis_Minor,9305]]'
 surface_gravity: 9000
 mass: 1.5
 apparent_magnitude: 0.37

@@ -56,18 +56,18 @@ aliases:
 - 巴纳德星
 - 바너드별
 has_id_wikidata: Q14268
-named_after: '[[_Standards/WikiData/WD~Edward_Emerson_Barnard,204999]]'
-type_of_variable_star: '[[_Standards/WikiData/WD~rotating_variable_star,2168098]]'
-different_from: '[[_Standards/WikiData/WD~Q11702975,11702975]]'
+named_after: '[[_Standards/WikiData/WD~Edward_Emerson_Barnard,204999|WD~Edward_Emerson_Barnard,204999]]'
+type_of_variable_star: '[[_Standards/WikiData/WD~rotating_variable_star,2168098|WD~rotating_variable_star,2168098]]'
+different_from: '[[_Standards/WikiData/WD~Q11702975,11702975|WD~Q11702975,11702975]]'
 child_astronomical_body:
-- "[[_Standards/WikiData/WD~Barnard's_Star_b,58642744]]"
+- "[[_Standards/WikiData/WD~Barnard's_Star_b,58642744|WD~Barnard's_Star_b,58642744]]"
 right_ascension: 269.452082497514
 right_ascension_component_of_proper_motion: -802.803
 radial_velocity: -110.579
 instance_of:
-- '[[_Standards/WikiData/WD~red_dwarf,5893]]'
+- '[[_Standards/WikiData/WD~red_dwarf,5893|WD~red_dwarf,5893]]'
 constellation:
-- '[[_Standards/WikiData/WD~Ophiuchus,8906]]'
+- '[[_Standards/WikiData/WD~Ophiuchus,8906|WD~Ophiuchus,8906]]'
 metallicity: -0.26
 surface_gravity: 160000
 age_estimated_by_a_dating_method: 8.5

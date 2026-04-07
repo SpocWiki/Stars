@@ -36,7 +36,7 @@ catalog_code:
 - α Eri
 Commons_category: Achernar
 confidential: public
-constellation: '[[_Standards/WikiData/WD~Eridanus,10433]]'
+constellation: '[[_Standards/WikiData/WD~Eridanus,10433|WD~Eridanus,10433]]'
 declination: -57.236752806
 declination_component_of_proper_motion: -38.24
 distance_from_Earth: 44.0917107583774
@@ -45,10 +45,10 @@ flattening: 0.75
 has_id_wikidata: Q12183
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Position%20Alpha%20Eri.png
 instance_of:
-- '[[_Standards/WikiData/WD~rotating_variable_star,2168098]]'
-- '[[_Standards/WikiData/WD~near_IR_source,67206785]]'
-- '[[_Standards/WikiData/WD~UV_emission_source,71798788]]'
-- '[[_Standards/WikiData/WD~binary_star,50053]]'
+- '[[_Standards/WikiData/WD~rotating_variable_star,2168098|WD~rotating_variable_star,2168098]]'
+- '[[_Standards/WikiData/WD~near_IR_source,67206785|WD~near_IR_source,67206785]]'
+- '[[_Standards/WikiData/WD~UV_emission_source,71798788|WD~UV_emission_source,71798788]]'
+- '[[_Standards/WikiData/WD~binary_star,50053|WD~binary_star,50053]]'
 isDeleted: false
 isReadOnly: false
 location:
@@ -69,7 +69,7 @@ surface_gravity: 3980
 tags:
 - astro/Star
 type: Star
-type_of_variable_star: '[[_Standards/WikiData/WD~Lambda_Eridani_variable,4350564]]'
+type_of_variable_star: '[[_Standards/WikiData/WD~Lambda_Eridani_variable,4350564|WD~Lambda_Eridani_variable,4350564]]'
 dv_star-class: B4
 dv_star-class-id: 28188
 dv_has_:
@@ -160,7 +160,7 @@ dv_Zodiac-index: 1
 dv_ZodiacId: 28118
 dv_NextStarId: 27615
 dv_is_:
-  same_as: '[[../../../WikiData/WD~Achernar,12183]]'
+  same_as: '[[../../../WikiData/WD~Achernar,12183|WD~Achernar,12183]]'
 dv_has_name: Achernar
 dv_has_place_altitude_ly: 90
 dv_has_place_longitude: 24.425
@@ -169,7 +169,7 @@ dv_has_place_longitude_velocity: 0.013
 dv_has_place_latitude_velocity: -0.03
 dv_has_value_for_brightness_min: 5
 dv_has_value_for_brightness_max: 5
-dv_is_same_as: '[[../../../WikiData/WD~Achernar,12183]]'
+dv_is_same_as: '[[../../../WikiData/WD~Achernar,12183|WD~Achernar,12183]]'
 aliases:
 - Achernar
 - Achernaras

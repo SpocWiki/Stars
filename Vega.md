@@ -99,26 +99,26 @@ catalog_code:
 - UBV M 23118
 right_ascension: 279.234734787
 part_of:
-- '[[_Standards/WikiData/WD~Summer_Triangle,324113]]'
-- '[[_Standards/WikiData/WD~Castor_Moving_Group,1049735]]'
+- '[[_Standards/WikiData/WD~Summer_Triangle,324113|WD~Summer_Triangle,324113]]'
+- '[[_Standards/WikiData/WD~Castor_Moving_Group,1049735|WD~Castor_Moving_Group,1049735]]'
 instance_of:
-- '[[_Standards/WikiData/WD~A_type_main_sequence_star,471805]]'
-- '[[_Standards/WikiData/WD~Delta_Scuti_variable,836976]]'
-- '[[_Standards/WikiData/WD~navigational_star,1547772]]'
-- '[[_Standards/WikiData/WD~high_proper_motion_star,2247863]]'
-- '[[_Standards/WikiData/WD~near_IR_source,67206785]]'
-- '[[_Standards/WikiData/WD~UV_emission_source,71798788]]'
-- '[[_Standards/WikiData/WD~variable_star,6243]]'
-- '[[_Standards/WikiData/WD~double_star,13890]]'
+- '[[_Standards/WikiData/WD~A_type_main_sequence_star,471805|WD~A_type_main_sequence_star,471805]]'
+- '[[_Standards/WikiData/WD~Delta_Scuti_variable,836976|WD~Delta_Scuti_variable,836976]]'
+- '[[_Standards/WikiData/WD~navigational_star,1547772|WD~navigational_star,1547772]]'
+- '[[_Standards/WikiData/WD~high_proper_motion_star,2247863|WD~high_proper_motion_star,2247863]]'
+- '[[_Standards/WikiData/WD~near_IR_source,67206785|WD~near_IR_source,67206785]]'
+- '[[_Standards/WikiData/WD~UV_emission_source,71798788|WD~UV_emission_source,71798788]]'
+- '[[_Standards/WikiData/WD~variable_star,6243|WD~variable_star,6243]]'
+- '[[_Standards/WikiData/WD~double_star,13890|WD~double_star,13890]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
-type_of_variable_star: '[[_Standards/WikiData/WD~Delta_Scuti_variable,836976]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+type_of_variable_star: '[[_Standards/WikiData/WD~Delta_Scuti_variable,836976|WD~Delta_Scuti_variable,836976]]'
 declination: 38.783688956
-constellation: '[[_Standards/WikiData/WD~Lyra,10484]]'
+constellation: '[[_Standards/WikiData/WD~Lyra,10484|WD~Lyra,10484]]'
 radial_velocity: -20.6
 metallicity: -0.5
 apparent_magnitude: 0.03
@@ -258,7 +258,7 @@ dv_Zodiac-index: 1
 dv_ZodiacId: 28134
 dv_NextStarId: 27797
 dv_is_:
-  same_as: '[[../../../WikiData/WD~Vega,3427]]'
+  same_as: '[[../../../WikiData/WD~Vega,3427|WD~Vega,3427]]'
 dv_has_value_for_mass_sol: 2.1
 dv_has_name: Wega
 dv_has_place_altitude_ly: 25
@@ -268,7 +268,7 @@ dv_has_place_longitude_velocity: 0.017
 dv_has_place_latitude_velocity: 0.28
 dv_has_value_for_brightness_min: 0
 dv_has_value_for_brightness_max: 0
-dv_is_same_as: '[[../../../WikiData/WD~Vega,3427]]'
+dv_is_same_as: '[[../../../WikiData/WD~Vega,3427|WD~Vega,3427]]'
 ---
 # [[Vega]] 
 

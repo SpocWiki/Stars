@@ -7,19 +7,19 @@ tags:
 - astro/Star
 type: Star
 has_id_wikidata: Q12970
-part_of: '[[_Standards/WikiData/WD~Winter_Hexagon,515922]]'
+part_of: '[[_Standards/WikiData/WD~Winter_Hexagon,515922|WD~Winter_Hexagon,515922]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740|WD~Encyclopædia_Britannica_First_Edition,5375740]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 instance_of:
-- '[[_Standards/WikiData/WD~multiple_star,878367]]'
-- '[[_Standards/WikiData/WD~navigational_star,1547772]]'
-type_of_variable_star: '[[_Standards/WikiData/WD~RS_Canum_Venaticorum_variable,1392913]]'
+- '[[_Standards/WikiData/WD~multiple_star,878367|WD~multiple_star,878367]]'
+- '[[_Standards/WikiData/WD~navigational_star,1547772|WD~navigational_star,1547772]]'
+type_of_variable_star: '[[_Standards/WikiData/WD~RS_Canum_Venaticorum_variable,1392913|WD~RS_Canum_Venaticorum_variable,1392913]]'
 declination_component_of_proper_motion: -426.89
-constellation: '[[_Standards/WikiData/WD~Auriga,10476]]'
+constellation: '[[_Standards/WikiData/WD~Auriga,10476|WD~Auriga,10476]]'
 apparent_magnitude: 0.08
 distance_from_Earth: 13
 surface_gravity: 1400

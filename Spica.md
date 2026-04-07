@@ -37,19 +37,19 @@ tags:
 - astro/Star
 type: Star
 has_id_wikidata: Q13008
-part_of: '[[_Standards/WikiData/WD~Spring_Triangle,591000]]'
+part_of: '[[_Standards/WikiData/WD~Spring_Triangle,591000|WD~Spring_Triangle,591000]]'
 type_of_variable_star:
-- '[[_Standards/WikiData/WD~Beta_Cephei_variable,764463]]'
-- '[[_Standards/WikiData/WD~rotating_ellipsoidal_variable,1332364]]'
+- '[[_Standards/WikiData/WD~Beta_Cephei_variable,764463|WD~Beta_Cephei_variable,764463]]'
+- '[[_Standards/WikiData/WD~rotating_ellipsoidal_variable,1332364|WD~rotating_ellipsoidal_variable,1332364]]'
 instance_of:
-- '[[_Standards/WikiData/WD~navigational_star,1547772]]'
-- '[[_Standards/WikiData/WD~near_IR_source,67206785]]'
-- '[[_Standards/WikiData/WD~UV_emission_source,71798788]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~navigational_star,1547772|WD~navigational_star,1547772]]'
+- '[[_Standards/WikiData/WD~near_IR_source,67206785|WD~near_IR_source,67206785]]'
+- '[[_Standards/WikiData/WD~UV_emission_source,71798788|WD~UV_emission_source,71798788]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 right_ascension: 201.298247362
 right_ascension_component_of_proper_motion: -42.35
 declination_component_of_proper_motion: -30.67
-constellation: '[[_Standards/WikiData/WD~Virgo,8842]]'
+constellation: '[[_Standards/WikiData/WD~Virgo,8842|WD~Virgo,8842]]'
 radial_velocity: 0
 surface_gravity: 3000
 effective_temperature: 3

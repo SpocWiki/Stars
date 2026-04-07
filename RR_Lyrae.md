@@ -18,14 +18,14 @@ aliases:
 - 거문고자리 RR
 has_id_wikidata: Q370994
 instance_of:
-- '[[_Standards/WikiData/WD~RR_Lyrae_variable,726242]]'
-- '[[_Standards/WikiData/WD~high_proper_motion_star,2247863]]'
-- '[[_Standards/WikiData/WD~variable_star,6243]]'
-type_of_variable_star: '[[_Standards/WikiData/WD~RR_Lyrae_variable_with_asymmetric_light_curves,66725273]]'
+- '[[_Standards/WikiData/WD~RR_Lyrae_variable,726242|WD~RR_Lyrae_variable,726242]]'
+- '[[_Standards/WikiData/WD~high_proper_motion_star,2247863|WD~high_proper_motion_star,2247863]]'
+- '[[_Standards/WikiData/WD~variable_star,6243|WD~variable_star,6243]]'
+type_of_variable_star: '[[_Standards/WikiData/WD~RR_Lyrae_variable_with_asymmetric_light_curves,66725273|WD~RR_Lyrae_variable_with_asymmetric_light_curves,66725273]]'
 declination_component_of_proper_motion: -195.476
 right_ascension_component_of_proper_motion: -109.108
 radial_velocity: -96.46
-constellation: '[[_Standards/WikiData/WD~Lyra,10484]]'
+constellation: '[[_Standards/WikiData/WD~Lyra,10484|WD~Lyra,10484]]'
 metallicity: -1.45
 distance_from_Earth: 0.3
 surface_gravity: 1100

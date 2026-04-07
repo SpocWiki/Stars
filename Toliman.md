@@ -63,17 +63,17 @@ aliases:
 - 南门二
 - 센타우루스자리 알파
 has_id_wikidata: Q12176
-different_from: "[[_Standards/WikiData/WD~Sid_Meier's_Alpha_Centauri,372412]]"
+different_from: "[[_Standards/WikiData/WD~Sid_Meier's_Alpha_Centauri,372412|WD~Sid_Meier's_Alpha_Centauri,372412]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~Alpha_Centauri_B,1052548]]'
-- '[[_Standards/WikiData/WD~Alpha_Centauri_A,2090157]]'
-- '[[_Standards/WikiData/WD~Proxima_Centauri,14266]]'
-instance_of: '[[_Standards/WikiData/WD~triple_star_system,2088753]]'
-child_astronomical_body: '[[_Standards/WikiData/WD~Alpha_Centauri_A,2090157]]'
-part_of: '[[_Standards/WikiData/WD~G_Cloud,5511885]]'
+- '[[_Standards/WikiData/WD~Alpha_Centauri_B,1052548|WD~Alpha_Centauri_B,1052548]]'
+- '[[_Standards/WikiData/WD~Alpha_Centauri_A,2090157|WD~Alpha_Centauri_A,2090157]]'
+- '[[_Standards/WikiData/WD~Proxima_Centauri,14266|WD~Proxima_Centauri,14266]]'
+instance_of: '[[_Standards/WikiData/WD~triple_star_system,2088753|WD~triple_star_system,2088753]]'
+child_astronomical_body: '[[_Standards/WikiData/WD~Alpha_Centauri_A,2090157|WD~Alpha_Centauri_A,2090157]]'
+part_of: '[[_Standards/WikiData/WD~G_Cloud,5511885|WD~G_Cloud,5511885]]'
 right_ascension: 219.87383306
 right_ascension_component_of_proper_motion: -3608
-constellation: '[[_Standards/WikiData/WD~Centaurus,8844]]'
+constellation: '[[_Standards/WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]'
 radial_velocity: -25.1
 apparent_magnitude: -0.1
 mass: 1.1

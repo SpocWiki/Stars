@@ -112,7 +112,7 @@ dv_Zodiac-index: 1
 dv_ZodiacId: 28160
 dv_NextStarId: 27488
 dv_is_:
-  same_as: '[[../../../WikiData/WD~Aldebaran,88540091]]'
+  same_as: '[[../../../WikiData/WD~Aldebaran,88540091|WD~Aldebaran,88540091]]'
 dv_has_name: Aldebaran
 dv_has_place_altitude_ly: 60
 dv_has_place_longitude: 68.975
@@ -121,7 +121,7 @@ dv_has_place_longitude_velocity: 0.005
 dv_has_place_latitude_velocity: -0.19
 dv_has_value_for_brightness_min: 9
 dv_has_value_for_brightness_max: 9
-dv_is_same_as: '[[../../../WikiData/WD~Aldebaran,88540091]]'
+dv_is_same_as: '[[../../../WikiData/WD~Aldebaran,88540091|WD~Aldebaran,88540091]]'
 aliases:
 - Aldebaran
 - Aldebaran (ster)

@@ -91,7 +91,7 @@ dv_Zodiac-index: 1
 dv_ZodiacId: 28112
 dv_NextStarId: 27256
 dv_is_:
-  same_as: '[[../../../WikiData/WD~Acrux,13102]]'
+  same_as: '[[../../../WikiData/WD~Acrux,13102|WD~Acrux,13102]]'
 dv_has_name: Acrux
 dv_has_place_altitude_ly: 400
 dv_has_place_longitude: -173.35
@@ -100,7 +100,7 @@ dv_has_place_longitude_velocity: -0.004
 dv_has_place_latitude_velocity: -0.02
 dv_has_value_for_brightness_min: 8
 dv_has_value_for_brightness_max: 8
-dv_is_same_as: '[[../../../WikiData/WD~Acrux,13102]]'
+dv_is_same_as: '[[../../../WikiData/WD~Acrux,13102|WD~Acrux,13102]]'
 aliases:
 - Acrux
 - Akruks

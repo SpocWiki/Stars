@@ -136,28 +136,28 @@ native_label: Gwiazda Polarna
 right_ascension: 37.95456067
 declination: 89.26410897
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-- '[[_Standards/WikiData/WD~pole_star,662656]]'
-- '[[_Standards/WikiData/WD~F_type_star,995268]]'
-- '[[_Standards/WikiData/WD~navigational_star,1547772]]'
-- '[[_Standards/WikiData/WD~triple_star_system,2088753]]'
-- '[[_Standards/WikiData/WD~classical_Cepheid_variable,10451997]]'
+- '[[_Standards/WikiData/WD~pole_star,662656|WD~pole_star,662656]]'
+- '[[_Standards/WikiData/WD~F_type_star,995268|WD~F_type_star,995268]]'
+- '[[_Standards/WikiData/WD~navigational_star,1547772|WD~navigational_star,1547772]]'
+- '[[_Standards/WikiData/WD~triple_star_system,2088753|WD~triple_star_system,2088753]]'
+- '[[_Standards/WikiData/WD~classical_Cepheid_variable,10451997|WD~classical_Cepheid_variable,10451997]]'
 present_in_work:
-- '[[_Standards/WikiData/WD~Birth_of_the_Federation,1474668]]'
-- '[[_Standards/WikiData/WD~Welcome_Back,_Polarisoids,73426397]]'
-- '[[_Standards/WikiData/WD~Camera_Bugged,73426400]]'
-part_of: '[[_Standards/WikiData/WD~Curved_Array,7254772]]'
-type_of_variable_star: '[[_Standards/WikiData/WD~classical_Cepheid_variable,10451997]]'
+- '[[_Standards/WikiData/WD~Birth_of_the_Federation,1474668|WD~Birth_of_the_Federation,1474668]]'
+- '[[_Standards/WikiData/WD~Welcome_Back,_Polarisoids,73426397|WD~Welcome_Back,_Polarisoids,73426397]]'
+- '[[_Standards/WikiData/WD~Camera_Bugged,73426400|WD~Camera_Bugged,73426400]]'
+part_of: '[[_Standards/WikiData/WD~Curved_Array,7254772|WD~Curved_Array,7254772]]'
+type_of_variable_star: '[[_Standards/WikiData/WD~classical_Cepheid_variable,10451997|WD~classical_Cepheid_variable,10451997]]'
 radial_velocity: -20.81
 declination_component_of_proper_motion: -11.85
-constellation: '[[_Standards/WikiData/WD~Ursa_Minor,10478]]'
+constellation: '[[_Standards/WikiData/WD~Ursa_Minor,10478|WD~Ursa_Minor,10478]]'
 absolute_magnitude: -3.64
 radius: 30
 mass: 6

@@ -41,23 +41,23 @@ location:
 tags:
 - astro/Star
 type: Star
-part_of: '[[_Standards/WikiData/WD~Winter_Hexagon,515922]]'
-child_astronomical_body: '[[_Standards/WikiData/WD~Pollux_b,1205308]]'
+part_of: '[[_Standards/WikiData/WD~Winter_Hexagon,515922|WD~Winter_Hexagon,515922]]'
+child_astronomical_body: '[[_Standards/WikiData/WD~Pollux_b,1205308|WD~Pollux_b,1205308]]'
 instance_of:
-- '[[_Standards/WikiData/WD~navigational_star,1547772]]'
-- '[[_Standards/WikiData/WD~high_proper_motion_star,2247863]]'
-- '[[_Standards/WikiData/WD~optical_double,3037794]]'
-- '[[_Standards/WikiData/WD~suspected_variable,66521853]]'
-- '[[_Standards/WikiData/WD~near_IR_source,67206785]]'
-- '[[_Standards/WikiData/WD~UV_emission_source,71798788]]'
-- '[[_Standards/WikiData/WD~variable_star,6243]]'
-- '[[_Standards/WikiData/WD~double_star,13890]]'
-- '[[_Standards/WikiData/WD~red_giant,50081]]'
-named_after: '[[_Standards/WikiData/WD~Pollux,12046224]]'
+- '[[_Standards/WikiData/WD~navigational_star,1547772|WD~navigational_star,1547772]]'
+- '[[_Standards/WikiData/WD~high_proper_motion_star,2247863|WD~high_proper_motion_star,2247863]]'
+- '[[_Standards/WikiData/WD~optical_double,3037794|WD~optical_double,3037794]]'
+- '[[_Standards/WikiData/WD~suspected_variable,66521853|WD~suspected_variable,66521853]]'
+- '[[_Standards/WikiData/WD~near_IR_source,67206785|WD~near_IR_source,67206785]]'
+- '[[_Standards/WikiData/WD~UV_emission_source,71798788|WD~UV_emission_source,71798788]]'
+- '[[_Standards/WikiData/WD~variable_star,6243|WD~variable_star,6243]]'
+- '[[_Standards/WikiData/WD~double_star,13890|WD~double_star,13890]]'
+- '[[_Standards/WikiData/WD~red_giant,50081|WD~red_giant,50081]]'
+named_after: '[[_Standards/WikiData/WD~Pollux,12046224|WD~Pollux,12046224]]'
 right_ascension: 116.328957774
 time_of_periapsis: 2447739.02
 right_ascension_component_of_proper_motion: -626.55
-constellation: '[[_Standards/WikiData/WD~Gemini,8923]]'
+constellation: '[[_Standards/WikiData/WD~Gemini,8923|WD~Gemini,8923]]'
 declination_component_of_proper_motion: -45.8
 orbital_eccentricity: 0.02
 metallicity: 0.07

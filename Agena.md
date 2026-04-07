@@ -40,17 +40,17 @@ aliases:
 - 马腹一
 - 하다르
 has_id_wikidata: Q13175
-type_of_variable_star: '[[_Standards/WikiData/WD~Beta_Cephei_variable,764463]]'
+type_of_variable_star: '[[_Standards/WikiData/WD~Beta_Cephei_variable,764463|WD~Beta_Cephei_variable,764463]]'
 instance_of:
-- '[[_Standards/WikiData/WD~multiple_star,878367]]'
-- '[[_Standards/WikiData/WD~navigational_star,1547772]]'
+- '[[_Standards/WikiData/WD~multiple_star,878367|WD~multiple_star,878367]]'
+- '[[_Standards/WikiData/WD~navigational_star,1547772|WD~navigational_star,1547772]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~bet_Cen_A,66476662]]'
-- '[[_Standards/WikiData/WD~bet_Cen_B,66476663]]'
+- '[[_Standards/WikiData/WD~bet_Cen_A,66476662|WD~bet_Cen_A,66476662]]'
+- '[[_Standards/WikiData/WD~bet_Cen_B,66476663|WD~bet_Cen_B,66476663]]'
 right_ascension: 210.955855623
 right_ascension_component_of_proper_motion: -33.27
 declination_component_of_proper_motion: -23.16
-constellation: '[[_Standards/WikiData/WD~Centaurus,8844]]'
+constellation: '[[_Standards/WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]'
 absolute_magnitude: -5.42
 distance_from_Earth: 50
 apparent_magnitude: 0.6

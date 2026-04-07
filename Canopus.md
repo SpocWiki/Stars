@@ -8,21 +8,21 @@ tags:
 type: Star
 has_id_wikidata: Q12189
 present_in_work:
-- '[[_Standards/WikiData/WD~Dune,190192]]'
-- '[[_Standards/WikiData/WD~Birth_of_the_Federation,1474668]]'
-- '[[_Standards/WikiData/WD~Canopus_in_Argos,3312043]]'
-- '[[_Standards/WikiData/WD~Star_Trek_The_Original_Series_Core_Game_Book,115519946]]'
+- '[[_Standards/WikiData/WD~Dune,190192|WD~Dune,190192]]'
+- '[[_Standards/WikiData/WD~Birth_of_the_Federation,1474668|WD~Birth_of_the_Federation,1474668]]'
+- '[[_Standards/WikiData/WD~Canopus_in_Argos,3312043|WD~Canopus_in_Argos,3312043]]'
+- '[[_Standards/WikiData/WD~Star_Trek_The_Original_Series_Core_Game_Book,115519946|WD~Star_Trek_The_Original_Series_Core_Game_Book,115519946]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Atutahi,4818816]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Atutahi,4818816|WD~Atutahi,4818816]]'
 instance_of:
-- '[[_Standards/WikiData/WD~near_IR_source,67206785]]'
-- '[[_Standards/WikiData/WD~star,523]]'
+- '[[_Standards/WikiData/WD~near_IR_source,67206785|WD~near_IR_source,67206785]]'
+- '[[_Standards/WikiData/WD~star,523|WD~star,523]]'
 declination: -52.695661384
 right_ascension: 95.987957829
-constellation: '[[_Standards/WikiData/WD~Carina,10470]]'
+constellation: '[[_Standards/WikiData/WD~Carina,10470|WD~Carina,10470]]'
 absolute_magnitude: -5.71
 apparent_magnitude: -0.74
 metallicity: -0.06

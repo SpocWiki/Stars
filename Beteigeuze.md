@@ -59,20 +59,20 @@ location:
 tags:
 - astro/Star
 type: Star
-part_of: '[[_Standards/WikiData/WD~Winter_Triangle,505816]]'
+part_of: '[[_Standards/WikiData/WD~Winter_Triangle,505816|WD~Winter_Triangle,505816]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-- '[[_Standards/WikiData/WD~Betelgeuse,14511905]]'
-- '[[_Standards/WikiData/WD~Betelgeusia,84321655]]'
+- '[[_Standards/WikiData/WD~Betelgeuse,14511905|WD~Betelgeuse,14511905]]'
+- '[[_Standards/WikiData/WD~Betelgeusia,84321655|WD~Betelgeusia,84321655]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20of%20the%20binary%20system%20of%20Betelgeuse%20in%20constellation%20Orion.png
-type_of_variable_star: '[[_Standards/WikiData/WD~SRc_semi_regular_variable_star,66759332]]'
-companion_of: '[[_Standards/WikiData/WD~Siwarha,130502045]]'
+type_of_variable_star: '[[_Standards/WikiData/WD~SRc_semi_regular_variable_star,66759332|WD~SRc_semi_regular_variable_star,66759332]]'
+companion_of: '[[_Standards/WikiData/WD~Siwarha,130502045|WD~Siwarha,130502045]]'
 right_ascension: 88.792938991
-instance_of: '[[_Standards/WikiData/WD~red_supergiant,5898]]'
-constellation: '[[_Standards/WikiData/WD~Orion,8860]]'
+instance_of: '[[_Standards/WikiData/WD~red_supergiant,5898|WD~red_supergiant,5898]]'
+constellation: '[[_Standards/WikiData/WD~Orion,8860|WD~Orion,8860]]'
 absolute_magnitude: -5.14
 metallicity: -0.21
 age_estimated_by_a_dating_method: 10000000

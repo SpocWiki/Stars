@@ -99,26 +99,26 @@ catalog_code:
 - TIC 459832522
 declination: 19.182409162
 part_of:
-- '[[_Standards/WikiData/WD~Spring_Triangle,591000]]'
-- '[[_Standards/WikiData/WD~Arcturus_stream,1046412]]'
-- '[[_Standards/WikiData/WD~Boötes,8667]]'
+- '[[_Standards/WikiData/WD~Spring_Triangle,591000|WD~Spring_Triangle,591000]]'
+- '[[_Standards/WikiData/WD~Arcturus_stream,1046412|WD~Arcturus_stream,1046412]]'
+- '[[_Standards/WikiData/WD~Boötes,8667|WD~Boötes,8667]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Local_Interstellar_Cloud,817157]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Local_Interstellar_Cloud,817157|WD~Local_Interstellar_Cloud,817157]]'
 instance_of:
-- '[[_Standards/WikiData/WD~navigational_star,1547772]]'
-- '[[_Standards/WikiData/WD~near_IR_source,67206785]]'
-- '[[_Standards/WikiData/WD~UV_emission_source,71798788]]'
-companion_of: '[[_Standards/WikiData/WD~Q66477219,66477219]]'
+- '[[_Standards/WikiData/WD~navigational_star,1547772|WD~navigational_star,1547772]]'
+- '[[_Standards/WikiData/WD~near_IR_source,67206785|WD~near_IR_source,67206785]]'
+- '[[_Standards/WikiData/WD~UV_emission_source,71798788|WD~UV_emission_source,71798788]]'
+companion_of: '[[_Standards/WikiData/WD~Q66477219,66477219|WD~Q66477219,66477219]]'
 right_ascension: 213.915300295
 declination_component_of_proper_motion: -1999.96
 right_ascension_component_of_proper_motion: -1092.66
-constellation: '[[_Standards/WikiData/WD~Boötes,8667]]'
+constellation: '[[_Standards/WikiData/WD~Boötes,8667|WD~Boötes,8667]]'
 radial_velocity: -5.16
 absolute_magnitude:
 - -0.304
