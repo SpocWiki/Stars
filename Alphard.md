@@ -57,6 +57,14 @@ ZodiacId = `= this.dv_ZodiacId`
 NextStarId = `= this.dv_NextStarId`
 
 
+## #has_/text_of_/abstract 
+
+> **Alphard** () is the brightest star in the constellation of Hydra. 
+> It has the Bayer designation Alpha Hydrae, which is that is Latinized from α Hydrae, and abbreviated Alpha Hya or α Hya. 
+> It is a giant star, cooler than the Sun but larger and more luminous. It is about 177 light-years away.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Alphard)
+
 
 ## Confidential Links & Embeds: 
 - [[../../../_Standards/astro/Star/Alphard|Alphard]] 
